@@ -11,11 +11,10 @@ while True:
         print('Okay! Talk to you soon!')
         sys.exit()
     else:
-        #print("Please answer only 'Y' or 'N'\n")
-        pass
+        print("Please answer only 'Y' or 'N'\n")
 
-positive = ["Good", "I'm great", "I'm good", "Fine"]
-negative = ["Bad", "Not Okay", "I'm not feeling good"]
+positive = ['Good', 'I’m great', 'I’m good' 'Fine',]
+negative = ['Bad', 'Not Okay', "I'm feeling good"]
     
 question3 = input('How are you doing today?\n')
     
