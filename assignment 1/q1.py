@@ -16,7 +16,7 @@ while True:
 positive = ['Good', 'I’m great', 'I’m good' 'Fine',]
 negative = ['Bad', 'Not Okay', "I'm feeling good"]
     
-question3 = input('How are you doing today?\n')
+question3 = input("How are you doing today?\n")
     
 if question3 in positive:
     print("I'm glad you're feeling well, " + question2 + '.')
