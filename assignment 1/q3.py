@@ -8,8 +8,8 @@ def is_prime(n):
 totPrimes = 0
 
 checks = int(input('How many numbers do you want to check?\n'))
-while True:
-    for k in range(checks):
+for k in range(checks):
+    while True:
         num = int(input("Enter a positive integer:\n"))
         if is_prime(num):
             print(num, "is a prime number.")  
@@ -18,6 +18,6 @@ while True:
         if num < 0:
             print("PrimeFinder ignores negative numbers!")
         else:
-            print(num, "is not a prime number.")
+            break
             
-print(totPrimes)
+print("Total prime numbers:", totPrimes)
