@@ -5,16 +5,17 @@ while True:
 
     if question1 == 'Y' or question1 == 'y':
         question2 = input('What is your name?\n')
-        print("Nice to meet you, " + question2 + ".")
+        print("Nice to meet you,", question2 + ".")
         break
     elif question1 == 'N' or question1 == 'n':  
         print('Okay! Talk to you soon!')
         sys.exit()
     else:
-        print("Please answer only 'Y' or 'N'\n")
+        #print("Please answer only 'Y' or 'N'\n")
+        sys.exit()
 
-positive = ['Good', 'I’m great', 'I’m good' 'Fine',]
-negative = ['Bad', 'Not Okay', "I'm feeling good"]
+positive = ["Good", "I'm great", "I'm good", "Fine"]
+negative = ["Bad", "Not Okay", "I'm not feeling good"]
     
 question3 = input("How are you doing today?\n")
     
