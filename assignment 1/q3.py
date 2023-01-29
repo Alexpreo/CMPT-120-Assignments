@@ -5,9 +5,10 @@ def is_prime(n):
         if n % i == 0:
             return False
     return True
-totPrimes = 0
 
+totPrimes = 0
 checks = int(input('How many numbers do you want to check?\n'))
+
 for k in range(checks):
     while True:
         num = int(input("Enter a positive integer:\n"))
