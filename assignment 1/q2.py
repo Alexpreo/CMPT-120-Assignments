@@ -43,8 +43,8 @@ try:
                     print(num1, "*", num2, "=", num3)
                     break
             if operator == '4':
-                num1 = float(input("Enter the first number in the interval of [0,100]:\n"))
-                num2 = float(input("Enter the second number in the interval of [0,100]:\n"))
+                num1 = int(input("Enter the first number in the interval of [0,100]:\n"))
+                num2 = int(input("Enter the second number in the interval of [0,100]:\n"))
                 if num1 > 100 or num1 < 0:
                     print("Magic calculator can not perform your operation!")
                     break
@@ -62,4 +62,4 @@ try:
                 print("Invalid input!")
 
 except EOFError as e:
-    print(e)
+    exit()
