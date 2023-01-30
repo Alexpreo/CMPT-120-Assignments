@@ -3,6 +3,7 @@ try:
     for i in range(operations):
         while True:
             operator = input("Select the operator from the list of Addition (1), Subtraction (2), Multiplication (3), Division (4):\n")
+            
             if operator == '1':
                 num1 = int(input("Enter the first number in the interval of [0,100]:\n"))
                 num2 = int(input("Enter the second number in the interval of [0,100]:\n"))
@@ -16,6 +17,7 @@ try:
                     num3 = num1 + num2
                     print(num1, "+", num2, "=", num3)
                     break
+                
             if operator == '2':
                 num1 = int(input("Enter the first number in the interval of [0,100]:\n"))
                 num2 = int(input("Enter the second number in the interval of [0,100]:\n"))
@@ -29,6 +31,7 @@ try:
                     num3 = num1 - num2
                     print(num1, "-", num2, "=", num3)
                     break
+                
             if operator == '3':
                 num1 = int(input("Enter the first number in the interval of [0,100]:\n"))
                 num2 = int(input("Enter the second number in the interval of [0,100]:\n"))
@@ -42,6 +45,7 @@ try:
                     num3 = num1 * num2
                     print(num1, "*", num2, "=", num3)
                     break
+                
             if operator == '4':
                 num1 = int(input("Enter the first number in the interval of [0,100]:\n"))
                 num2 = int(input("Enter the second number in the interval of [0,100]:\n"))
