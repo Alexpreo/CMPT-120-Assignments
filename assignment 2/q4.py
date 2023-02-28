@@ -16,7 +16,7 @@ def primeWeight(num, primes):
             primes += 1
     return primes
 
-def compWeight(num, comps):
+def compWeight(num, comps):    
     for j in range(num):
         if is_prime(j) == True:
             div = num % j
@@ -31,11 +31,11 @@ for k in range(basket):
     if is_prime(num) == True:
         outputPrime = primeWeight(num, primes)
         tot += outputPrime
-        # print(tot)
+        print(tot)
     else:
         outputComp = compWeight(num, comps)
         tot += outputComp
-        # print(tot)
+        print(tot)
 
 if is_prime(tot) == True:
     print(tot - primeWeight(tot, primes))

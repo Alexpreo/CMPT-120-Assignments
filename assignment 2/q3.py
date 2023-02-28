@@ -1,32 +1,28 @@
-def palindromeChecker(source):
-    word = converter(source)
-    word_len = len(word)
-    for i in range(word_len//2):
-        if word[i] == word[word_len-i-1]:
-            return 'Yes'
-    return 'No'
-    # word = converter(source)
-    # reverse = word[::-1]
-    # if word == reverse:
-    #     return 'Yes'
-    # return 'No'
-    
-def converter(source):
-    lowercase = ''
+def is_palindrome(source):
+    source = ""
     for char in source:
-        if ord(char) >= 65 and ord(char) <= 90:
-            char = ord(char)+32
-            to_letters = chr(char)
-            lowercase += to_letters
-        elif ord(char) == 39 or ord(char) == 44 or ord(char) == 8217 or ord(char) == 32:
-            char = ord(char)
-            char = 0
-            to_letters = chr(char)
-            lowercase += to_letters
+        if char >= "A" and char <= "Z":
+            source += chr(ord(char) + 32)
         else:
-            lowercase += char
-    #print(lowercase)
-    return lowercase
-            
-source = str(input())
-print(palindromeChecker(source))
+            source += char
+
+    source_no_space = ""
+    for char in source:
+        if char != " " and char != ",":
+            source_no_space += char
+
+    reversed = ""
+    for i in range(len(source_no_space)-1, -1, -1):
+        reversed += source_no_space[i]
+    if source_no_space == reversed:
+        return True
+    else:
+        return False
+
+
+source = input()
+
+if is_palindrome(source):
+    print("Yes")
+else:
+    print("No")
