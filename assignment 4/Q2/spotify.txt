@@ -1,0 +1,2017 @@
+0.0102,0.833,204600,Mask Off,Future
+0.199,0.743,326933,Redbone,Childish Gambino
+0.0344,0.838,185707,Xanny Family,Future
+0.604,0.494,199413,Master Of None,Beach House
+0.18,0.678,392893,Parallel Lines,Junior Boys
+0.00479,0.804,251333,Sneakin’,Drake
+0.0145,0.739,241400,Childs Play,Drake
+0.0202,0.266,349667,Gyöngyhajú lány,Omega
+0.0481,0.603,202853,I've Seen Footage,Death Grips
+0.00208,0.836,226840,Digital Animal,Honey Claws
+0.0572,0.525,358187,Subways - In Flagranti Extended Edit,The Avalanches
+0.0915,0.753,324880,Donme Dolap - Baris K Edit,Modern Folk Üçlüsü
+0.253,0.603,356973,Cemalim,Erkin Koray
+0.366,0.762,243270,One Night,Lil Yachty
+0.44,0.662,247288,Oh lala,PNL
+0.019,0.637,188333,Char,Crystal Castles
+0.0239,0.603,270827,World In Motion,New Order
+0.233,0.789,447907,One Nation Under a Groove,Funkadelic
+0.314,0.713,195429,Bouncin,Chief Keef
+0.0242,0.735,214347,C O O L - Radio Edit,Le Youth
+0.000702,0.854,249253,Percolator (Jamie Jones Vault Mix) - mixed,Cajmere
+0.00024,0.747,307680,House of Jealous Lovers,The Rapture
+0.118,0.854,287086,Imma Ride,Young Thug
+0.000596,0.224,132760,Girlfriend,Ty Segall
+0.279,0.512,203400,If I Gave You My Love,Myron & E
+0.00219,0.781,205160,This Ready Flesh,TR/ST
+0.341,0.411,199500,Lose My Mind,A-Trak
+0.018,0.646,188333,Char,Crystal Castles
+0.0516,0.782,228562,Look Alive,Rae Sremmurd
+0.282,0.735,186096,Please Stop Making Fake Versace,Father
+0.00791,0.45,220934,Milly Rock,2milly
+0.0219,0.897,285240,Blasé (feat. Future & Rae Sremmurd),Ty Dolla $ign
+0.0358,0.959,213000,Best Friend,Young Thug
+0.0324,0.742,280831,Hercules,Young Thug
+0.118,0.805,232880,Who Be Lovin Me (feat. ILOVEMAKONNEN),Santigold
+0.0428,0.667,230693,Check,Young Thug
+0.297,0.722,175613,Poppin' My Collar,Three 6 Mafia
+0.0565,0.853,205879,Jumpman,Drake
+0.0128,0.747,213507,11-Jul,Beyoncé
+0.135,0.777,237187,Somebody's Watching Me,Rockwell
+0.00041,0.731,324541,Bang That,Disclosure
+0.00356,0.76,186122,I Don't Sell Molly No More,ILoveMakonnen
+0.00156,0.624,183000,Versace Python,Riff Raff
+0.00243,0.621,378893,Monster,Kanye West
+0.533,0.64,234526,OOOUUU,Young M.A.
+0.00631,0.715,213093,Return Of The Mack - C & J Street Mix,Mark Morrison
+0.00182,0.7,386160,Fantastic Man,William Onyeabor
+0.0923,0.789,175240,Right Place Wrong Time,Dr. John
+0.375,0.796,252547,Azon de ma gnin kpevi,T. P. Orchestre Poly-Rythmo
+0.183,0.716,576888,Odofo Nyi Akyiri Biara,Ebo Taylor
+0.0185,0.74,241341,Annie,Neon Indian
+0.0638,0.7,224480,The Chase,Future Islands
+0.456,0.514,215613,Coming Home,Leon Bridges
+0.128,0.313,286960,Wishes,Beach House
+0.246,0.676,254769,White Iverson,Post Malone
+0.12,0.532,213622,I Know There's Gonna Be (Good Times),Jamie xx
+0.00426,0.646,283067,Loud Places,Jamie xx
+0.193,0.598,238307,L$D,A$AP Rocky
+0.0174,0.754,113373,Dopeman,Vince Staples
+0.000392,0.294,311360,California Nights,Best Coast
+0.435,0.622,287427,Baby,Ariel Pink's Haunted Graffiti
+0.257,0.559,225347,Ain't No Love In The Heart Of The City - Single Version,"Bobby ""Blue"" Bland"
+0.000145,0.54,293646,Fail to Cry,Yacht Club
+0.273,0.793,232251,Evil Friends (feat. Danny Brown) - Jake One Remix,Portugal. The Man
+0.374,0.549,223720,Ikimiz Bir Fidaniz - Baris K Edit,Umit Aksu Orkestrasi
+0.00266,0.557,186397,Sentimental Trash,Sweet Valley
+0.000546,0.597,279240,Get Away,CHVRCHES
+0.00781,0.879,213786,Look At Wrist,Father
+0.125,0.726,334173,Our Love,Caribou
+0.00158,0.857,134062,I Ain't Trippin off Nothin,Ezale
+0.0132,0.807,330920,They Don't Know - Original Mix,Disciples
+0.783,0.596,196627,Sabali,Amadou & Mariam
+0.518,0.683,155133,Spooky,Dusty Springfield
+0.0548,0.768,239908,Pick Up The Pieces,Average White Band
+0.727,0.506,160400,Have Love Will Travel,The Sonics
+0.000313,0.457,293533,Capitol,TR/ST
+0.34,0.468,386760,Uncast Shadow Of A Southern Myth,Parquet Courts
+0.47,0.537,232453,I Shall Be Released - Remastered,Nina Simone
+0.855,0.515,378253,Words I Don't Remember,How To Dress Well
+0.00502,0.429,196933,To The Top,Twin Shadow
+0.555,0.791,187210,Them Changes (feat. Flying Lotus & Kamasi Washington),Thundercat
+0.186,0.711,221350,Aquafina (feat. GoldLink & Chaz French),Falcons
+0.0249,0.683,201049,Hot Blur,How Sad
+0.0108,0.309,257867,Summer Madness,Kool & The Gang
+0.193,0.867,460400,The Payback,James Brown
+0.0192,0.619,275533,I'm In Love,Fool's Gold
+0.00776,0.898,429897,I Need You Tonight,Punkin Machine
+0.17,0.589,206240,Everybody Likes Something Good,Ify Jerry Crusade
+0.0221,0.606,234987,Dadje Von O Von Non,Gnonnas Pédro
+0.0397,0.786,302840,Sugah Daddy,D'Angelo
+0.0213,0.734,321933,International Players Anthem,Swishahouse
+0.0454,0.812,268421,Swerve,ILoveMakonnen
+0.00672,0.876,213246,Look At Wrist,Father
+0.00488,0.601,467587,Let It Happen,Tame Impala
+0.00419,0.748,213053,My Way (feat. Monty),Fetty Wap
+0.17,0.615,214150,Walk,Kwabs
+0.0604,0.799,333520,The Magnificent Seven - Remastered,The Clash
+0.0571,0.398,247390,NOBO,Tijuana Panthers
+0.716,0.685,427227,The Gaudy Side of Town,Gayngs
+0.0151,0.706,299799,U Mad,Vic Mensa
+0.228,0.63,315595,Slumlord,Neon Indian
+0.017,0.57,237480,Leave A Trace,CHVRCHES
+0.247,0.525,292760,Willing & Able,Disclosure
+0.123,0.698,236760,White Girl,Shy Glizzy
+0.00705,0.763,213375,Maneuvering,ILoveMakonnen
+0.181,0.511,160907,Be My Baby,The Ronettes
+0.378,0.506,159253,Why Don't They Let Us Fall in Love,The Ronettes
+0.677,0.513,162040,Will You Love Me Tomorrow,The Shirelles
+0.488,0.251,126827,One Fine Day,The Chiffons
+0.487,0.559,111270,He's So Fine - 2000 Digital Remaster,The Chiffons
+0.7,0.431,158685,Then He Kissed Me,The Crystals
+0.403,0.683,142333,It's My Party,Lesley Gore
+0.656,0.78,149440,Please Mr. Postman,The Marvelettes
+0.00904,0.614,196352,Fiesta - Remix,Bomba Estéreo
+0.141,0.661,196615,Queen's Speech 4,Lady Leshurr
+0.119,0.564,213622,I Know There's Gonna Be (Good Times),Jamie xx
+0.0659,0.751,202533,With That (feat. Duke),Young Thug
+0.00257,0.896,267024,Hotline Bling,Drake
+0.00256,0.618,196693,679 (feat. Remy Boyz),Fetty Wap
+0.0244,0.746,222093,Trap Queen,Fetty Wap
+0.013,0.888,200080,No Type,Rae Sremmurd
+0.0127,0.443,318750,Chasing Heaven,Bassnectar
+0.00943,0.507,282273,Speakerbox (feat. Lafa Taylor),Bassnectar
+0.000758,0.695,253773,Movin' Bass - GTA Remix,Rick Ross
+0.674,0.462,226333,Danger and Dread,Brown Bird
+0.0161,0.526,241440,Midnight City,M83
+0.107,0.645,591707,Water No Get Enemy - Edit,Fela Kuti
+0.0134,0.405,592920,Pyramids,Frank Ocean
+0.0219,0.735,269817,Hercules Theme,Hercules & Love Affair
+0.0452,0.746,238146,Rewind,Kelela
+0.0551,0.547,251093,My Sub (Pt. 2: The Jackin') - Album Version (Edited),Big K.R.I.T.
+0.0224,0.634,221960,Kush,Lil Wayne
+0.244,0.607,253800,9,Willow
+0.0668,0.704,199246,Magnets,Disclosure
+7.19E-05,0.558,258187,Don't Move,Phantogram
+0.0227,0.698,248053,Pussy,Brazilian Girls
+0.103,0.772,191160,Black Mags,The Cool Kids
+0.0956,0.788,238467,Stay Fly - Explicit Album Version,Three 6 Mafia
+0.00919,0.944,261973,Sippin On Some Syrup,Three 6 Mafia
+0.354,0.729,176880,Poppin' My Collar - feat. Project Pat - Explicit,Three 6 Mafia
+0.00469,0.721,228933,Sittin' Sidewayz - feat. Big Pokey Explicit,Paul Wall
+0.00102,0.798,227587,Gold and a Pager,The Cool Kids
+0.0512,0.851,224653,Smell Yo D*ck,Riskay
+0.0252,0.34,147467,Don't Wanna Lose,Ex Hex
+0.221,0.767,194066,Endless Rhythm,Baio
+0.937,0.772,220093,Demon,Shamir
+2.13E-05,0.259,350920,Nothing Ever Happened,Deerhunter
+0.284,0.633,226747,Oh My Darling Don't Meow (Just Blaze Remix),Run The Jewels
+0.0962,0.654,252095,River,Ibeyi
+0.334,0.726,221787,The Buzz (feat. Mataya & Young Tapz),Hermitude
+0.0648,0.855,310907,All Day,Kanye West
+0.185,0.704,282253,Blood On the Money,Future
+0.689,0.658,238560,River,Leon Bridges
+0.000472,0.502,244204,Trust Me Danny,ILoveMakonnen
+0.00157,0.79,217707,Big Rings,Drake
+0.0233,0.738,242188,Annie,Neon Indian
+0.00212,0.777,500550,Acamar,Frankey
+0.0734,0.791,219333,Alright,Kendrick Lamar
+0.19,0.735,275840,Know Yourself,Drake
+0.188,0.556,294360,Deicide,Crystal Castles
+0.461,0.427,206387,Coming Home,Leon Bridges
+0.0111,0.563,176361,Hercules Theme 2014,Hercules & Love Affair
+0.0496,0.753,256320,Forever,Majid Jordan
+0.149,0.785,262979,Next to You,Poolside
+0.0682,0.557,293910,Papi Pacify,FKA twigs
+0.489,0.594,235693,Magnolia,Young & Sick
+0.000259,0.644,237120,Dark Matter,Feathers
+0.217,0.704,185437,Callie (feat. Vic Mensa),Donnie Trumpet
+0.0472,0.849,217693,Wu-Tang Forever,Drake
+0.228,0.628,260947,Fame (2007 Remastered),David Bowie
+0.00689,0.717,224933,We Dem Boyz,Wiz Khalifa
+0.0109,0.584,243480,Ego Free Sex Free,Autre Ne Veut
+0.0246,0.586,374133,Her Fantasy,Matthew Dear
+0.00399,0.648,560600,Little People (Black City),Matthew Dear
+0.037,0.807,250130,Confess To Me,Disclosure
+0.0789,0.577,355881,Let Me Show You Love,Cut Copy
+0.141,0.5,256093,New Slaves,Kanye West
+0.108,0.804,336160,Sexy Socialite,Chromeo
+0.0108,0.787,273853,Okay,Holy Ghost!
+0.0107,0.246,230230,Weight,Mikal Cronin
+0.0107,0.882,284027,When A Fire Starts To Burn,Disclosure
+0.0315,0.628,308527,When A Fire Starts To Burn - Midland Remix,Disclosure
+0.00807,0.451,179947,Fake Tales Of San Francisco,Arctic Monkeys
+0.64,0.518,405027,Billie Holiday,Warpaint
+0.0414,0.774,269867,Goody Two Shoes,Duck Sauce
+0.0127,0.547,245293,The Wire,HAIM
+0.0585,0.552,283636,Awake,Tycho
+0.00856,0.542,216827,Man I Need,Jagwar Ma
+0.019,0.695,246521,N.O. Bounce,Big Freedia
+0.0488,0.633,224720,Now Is Not The Time,CHVRCHES
+0.365,0.312,222719,No Rest For The Wicked,Lykke Li
+0.17,0.43,154414,Holdin On,Flume
+0.0346,0.19,230693,Rocking Chair,The Districts
+0.0361,0.312,281360,Marriage,Gold Panda
+0.00818,0.539,224907,Ride On / Right On,Phosphorescent
+0.613,0.698,230200,GodLovesUgly,Atmosphere
+0.00275,0.476,195200,New York City,Christopher Owens
+0.064,0.568,322544,Moving to the Left,Woods
+0.00192,0.558,301573,All These Things That I've Done,The Killers
+0.0212,0.604,187253,Junk of the Heart (Happy),The Kooks
+0.0516,0.718,224267,When The Night Falls - feat. Solange Knowles,Chromeo
+0.0855,0.737,332453,Mercy,Kanye West
+0.0293,0.769,214333,Don't You Evah,Spoon
+0.00731,0.567,343784,We Exist,Arcade Fire
+0.000467,0.817,213059,Le Goudron (Edit),YACHT
+0.0411,0.767,179240,Double Bubble Trouble,M.I.A.
+0.000195,0.77,391686,Careless,Dusky
+0.827,0.712,279800,Look at You,George McCrae
+0.39,0.706,131250,How Did I Get Here,ODESZA
+0.00471,0.542,227160,Black Out Days,Phantogram
+0.827,0.583,248213,Bang! Bang!,Joe Cuba
+0.0628,0.727,289267,Every 1's A Winner - Single Version,Hot Chocolate
+0.00919,0.45,201602,Unbound,Cathedrals
+0.0027,0.602,215518,Operate,ASTR
+0.385,0.415,359800,Blood On The Leaves,Kanye West
+0.0304,0.614,315000,Come Save Me,Jagwar Ma
+0.105,0.901,212712,Hannah Montana,Migos
+0.359,0.7,218733,High School Lover,Cayucas
+0.119,0.583,202710,They Come in Gold,Shabazz Palaces
+0.0112,0.6,215000,Tides of Neptune,Virgo
+0.251,0.786,255094,Cocaine Model,ZHU
+0.0696,0.512,287147,Light House,Future Islands
+0.403,0.791,199973,Pass The Dutchie,Musical Youth
+0.849,0.533,378253,Words I Don't Remember,How To Dress Well
+0.0862,0.731,178987,I Would Die 4 U,Prince
+0.000156,0.853,356560,Bless My Soul,Nightmares On Wax
+0.0398,0.674,313147,Heaven And Hell Is On Earth,20th Century Steel Band
+0.0448,0.788,243800,Upper Echelon,Travis Scott
+0.000686,0.745,384907,Flying High (Part 1),Cloud One
+0.0107,0.621,240760,Go,Grimes
+0.377,0.818,242067,Spill The Wine,Eric Burdon
+0.0988,0.856,247800,Got To Give It Up (Part 1),Marvin Gaye
+0.0913,0.614,286315,Never Gonna Give You Up,Barry White
+0.0778,0.729,289627,Sanctified,Rick Ross
+0.0608,0.42,151853,It #1,Ty Segall
+0.011,0.757,280427,Dangerous (feat. Joywave),Big Data
+0.0249,0.618,221840,Counting,Autre Ne Veut
+0.642,0.657,175333,You're the Best,Wet
+0.538,0.879,313493,Estrelar,Marcos Valle
+0.0172,0.496,190582,Hold On We're Going Home,ASTR
+0.0639,0.742,256693,Uncle ACE,Blood Orange
+0.245,0.623,227907,San Francisco,Foxygen
+0.00101,0.736,258387,Stay High - Habits Remix,Tove Lo
+0.254,0.482,139267,Crosstown Traffic,Jimi Hendrix
+0.0117,0.683,175357,Ziggy Starfish (Anxiety Raps) [feat. Gold Panda],Open Mike Eagle
+0.0626,0.697,181149,Marijuana,Chrome Sparks
+0.479,0.631,187617,Crown Violet - Bonus Track,Azizi Gibson
+0.0957,0.747,202349,Glad I Met You,D. Gookin
+0.251,0.569,265827,Dancing In The Rain,Blu
+0.029,0.674,202733,You Know I'm No Good - Ghostface UK Version,Amy Winehouse
+0.00744,0.578,246007,Kill V. Maim,Grimes
+0.449,0.586,217120,Life Round Here,James Blake
+0.275,0.756,206378,Sitting Pretty (feat. Wiz Khalifa),Ty Dolla $ign
+0.212,0.723,322050,"Glyde 2nyte (feat. Leon Sylvers III_Leon Sylvers IV)",Dâm-Funk
+0.0559,0.599,243589,Clouds Over the Pacific,James Pants
+0.00333,0.586,238507,Distant Land,Madlib
+0.0332,0.749,267800,Flashlight,Parliament
+0.539,0.689,171560,Can You Get To That,Funkadelic
+0.0257,0.283,186369,Better,Banks
+0.0193,0.413,216771,Pony,Pretty Sister
+0.0181,0.932,192773,WTF (Where They From) [feat. Pharrell Williams],Missy Elliott
+0.0062,0.748,312240,Again,Fetty Wap
+0.108,0.53,194613,Exchange,Bryson Tiller
+0.196,0.388,238000,Sugar for the Queen,Bells Atlas
+0.667,0.371,275013,Symphony of the Nymph,Ariel Pink's Haunted Graffiti
+0.124,0.875,347667,Cool It Now,New Edition
+0.074,0.523,215867,Jumpin' Jack Flash,Ananda Shankar
+0.0962,0.654,252095,River,Ibeyi
+0.455,0.847,191541,You Know You Like It - Bondax Remix,AlunaGeorge
+0.015,0.836,229715,Batuque (Jeremy Sole & Atropolis Remix),Dom La Nena
+0.172,0.413,273545,Mykonos (feat. Fleet Foxes),Rhythms Del Mundo
+0.123,0.473,153973,So Destroyed (channeling Rage Peace),Prince Rama
+0.00593,0.609,207301,Bitch,Allie X
+0.174,0.544,181400,Locket,Kilo Kish
+0.0059,0.379,325500,Apathy,Shlohmo
+0.000304,0.316,245880,It All Feels Right,Washed Out
+0.29,0.857,222573,Last Chance to Dance,Ekkah
+0.00412,0.389,215560,The Righteous One,The Orwells
+0.00492,0.519,282659,The New International Sound,GENER8ION
+0.384,0.478,281774,Like Lust,MOVEMENT
+0.00978,0.706,362413,Rhythm of Devotion,Sisyphus
+0.0621,0.736,190440,Zion Gate Dub,King Tubby
+0.081,0.651,253587,Enjoy The Silence - Remastered Version Original,Depeche Mode
+0.0269,0.869,270520,Fried Neck Bones And Some Home Fries - Dan The Automator Remix,Willie Bobo
+0.428,0.624,238427,Archangel,Burial
+0.699,0.386,328966,"Lone Wolf and Cub (feat. Herbie Hancock_Flying Lotus_Miguel Atwood-Ferguson_Mono/poly)",Thundercat
+0.22,0.234,207186,Skyscraper,Elephant
+0.516,0.525,216520,I Want You - Single Version,Marvin Gaye
+0.00564,0.521,208613,"The New International Sound_Pt. 2 (feat. M.I.A.)",GENER8ION
+0.504,0.719,181459,Suede (feat. Anderson Paak & Knxwledge),NxWorries
+0.825,0.722,196507,Bam Bam,Sister Nancy
+0.0453,0.806,218280,Alright,Logic
+0.259,0.763,156484,Rainy Streets,Blue In Green
+0.00403,0.736,168451,Hazelton Trump,OB OBrien
+0.0141,0.651,256667,Free Stress Test,Professor Murder
+0.127,0.479,278147,I'm Ya Dogg,Snoop Dogg
+0.379,0.535,293213,Hot Dreams,Timber Timbre
+0.0861,0.356,242253,The Hills,The Weeknd
+0.26,0.753,200213,"When They Fight_They Fight",Generationals
+0.032,0.694,273949,The River,Son Little
+0.0356,0.483,229893,Rill Rill,Sleigh Bells
+0.0453,0.878,372096,Awake,Santé
+0.19,0.703,228040,Johnny Was,Bob Marley & The Wailers
+0.407,0.688,192040,Monster Mash,"Bobby ""Boris"" Pickett"
+0.854,0.316,659560,Night on Bald Mountain,Modest Mussorgsky
+0.153,0.725,230400,Feel The Volume,Jauz
+0.321,0.749,308947,Water Me (feat. Leon Ware),Theophilus London
+0.00079,0.771,248991,Kathy Lee,Jessy Lanza
+0.0259,0.69,225533,Love Buzz,Shocking Blue
+0.058,0.648,201848,Beautiful Life (feat. Action Bronson & Joey Bada$$),Statik Selektah
+0.0498,0.403,274480,Auditorium,Mos Def
+0.0803,0.664,472013,Disco Devil,"Lee ""Scratch"" Perry"
+0.118,0.704,288347,Frontier Psychiatrist,The Avalanches
+0.00189,0.554,252140,Had Ten Dollaz,Cherry Glazerr
+0.0174,0.446,241800,Sometimes,Heems
+0.124,0.612,265133,VHS Sex,Com Truise
+0.00838,0.587,235440,Ambling Alp,Yeasayer
+0.429,0.551,141493,All Day And All Of The Night,The Kinks
+0.419,0.331,133093,Strychnine,The Sonics
+0.106,0.912,194040,Who Is He (And What Is He to You?),Bill Withers
+0.0211,0.697,236456,Acamar,Frankey
+0.00799,0.883,382015,It Looks Like Love,Goody Goody
+0.00236,0.733,232375,Freak Connection - Edit,Cerrone
+0.0602,0.803,446307,"I'll Be Good - 12"" Mix",Rene & Angela
+0.219,0.698,223191,Here I Come (Broader Than Broadway),Barrington Levy
+0.0138,0.677,144280,Swords,M.I.A.
+0.0169,0.648,197800,Hands On The Wheel,ScHoolboy Q
+0.315,0.65,190734,Kush High,Eighty4 Fly
+0.518,0.672,248372,Métele,Buscabulla
+0.0567,0.838,194828,What I Might Do,Ben Pearce
+0.0286,0.76,479547,Atomic Bomb,William Onyeabor
+0.00909,0.646,279200,World Restart,Kindness
+0.0445,0.808,237853,Swingin' Party,Kindness
+0.119,0.716,263817,Antidote,Travis Scott
+0.0111,0.846,233387,Pieces,Tanlines
+0.388,0.704,745653,Zombie,Fela Kuti
+2.84E-06,0.305,97560,Time-Out,Terror Train
+0.0115,0.82,349720,Let's Lovedance Tonight - Danny Krivit Re-edit - Dk Re-Edit,Gary's Gang
+0.136,0.185,105858,I'm a Dildo,No Parents
+0.00328,0.562,238457,Do It (High School Dropout),Tayyib Ali
+0.376,0.565,217648,Cadillac Girl,Only Real
+0.196,0.464,199053,Today,Tom Scott
+0.248,0.576,235187,"The Buzz (feat. Big K.R.I.T._Mataya & Young Tapz) - Bonus Track",Hermitude
+0.0686,0.388,220467,I Choose You,Willie Hutch
+0.602,0.637,156430,The Way You’d Love Her,Mac Demarco
+0.0893,0.636,235813,Shooting Stars,Bag Raiders
+0.000141,0.688,324437,Bloom - Lane 8 Remix,ODESZA
+0.0469,0.766,237867,Pacifier,Young Thug
+0.133,0.402,206920,Powerful,Major Lazer
+0.157,0.599,218342,Unbreakable,Janet Jackson
+0.371,0.837,245581,It's Strange (feat. K.Flay),Louis The Child
+0.0124,0.612,231765,Make Them Gold,CHVRCHES
+0.19,0.63,348742,Don't Mean A Thing,Lapalux
+0.0953,0.614,237073,White Lies - The Soundmen Remix,Max Frost
+0.27,0.446,259765,Sophia So Far,Goodnight Radio
+0.0846,0.481,263187,Nimble Girl,Hotel Eden
+0.00855,0.293,202160,Grinder,Gary Clark Jr.
+0.128,0.889,272720,Choices (Yup),E-40
+0.088,0.673,347613,Two Brothers,Hanni El Khatib
+0.0406,0.536,238893,Walkabout (W/ Noah Lennox),Atlas Sound
+0.0377,0.575,215973,Ferus Gallery,Allah-Las
+0.021,0.571,237680,Everybody Loves The Sunshine,Roy Ayers Ubiquity
+0.0466,0.784,252663,Number One,Tuxedo
+0.16,0.746,179091,Sick Beat,Kero Kero Bonito
+0.00266,0.444,217733,She a Go (feat. Spinn & Taso),DJ Rashad
+0.0833,0.736,218312,Lost You,Zeds Dead
+0.445,0.915,183159,Norf Norf,Vince Staples
+0.304,0.75,229588,Eleven 11: / 11,Rob Curly
+0.109,0.632,197963,Buffalo,Toro y Moi
+0.0152,0.814,234640,Talk About,Les Sins
+0.273,0.893,142012,Probably Nu It,Tree
+0.0146,0.823,274320,Mamacita,Travis Scott
+0.0573,0.639,284080,Star,Gary Clark Jr.
+0.726,0.49,289307,Gooey,Glass Animals
+0.0487,0.289,273000,Walk On By - Single Version,Isaac Hayes
+0.111,0.615,196817,Omen - Radio Edit,Disclosure
+0.0207,0.808,292373,Champagne Coast,Blood Orange
+0.102,0.775,423747,Running Back To You,The Juan Maclean
+0.00757,0.393,261187,BKNY,Fat Tony
+0.01,0.449,191425,Pains,Silk Rhodes
+2.24E-05,0.595,224094,Night Drive,Part Time
+0.038,0.728,176675,"Flex (Ooh Ooh Ooh)",Rich Homie Quan
+0.765,0.561,213786,Indian Food,Dumbo Gets Mad
+0.775,0.758,216234,Childs Play (feat. Chance the Rapper),SZA
+0.000429,0.782,351707,Lets Start the Dance,Bohannon
+0.323,0.839,369067,Rollerskate,Matias Aguayo
+0.0301,0.226,247027,Outro,M83
+0.268,0.763,322093,Grindin’ My Whole Life,HS87
+0.0626,0.858,254920,Slyd,!!!
+0.000239,0.329,255413,The Moment,Tame Impala
+0.317,0.727,197133,R.I.C.O. (feat. Drake),Meek Mill
+0.00605,0.318,182987,Black And White,Parquet Courts
+0.0818,0.61,290667,Never Never Gonna Give Ya Up,Barry White
+0.0021,0.646,219754,Wait & See,Holy Ghost!
+0.016,0.79,233813,Wait for a Minute,tUnE-yArDs
+0.0385,0.484,205500,5ft7,Tonstartssbandht
+0.304,0.785,373243,200 Press,James Blake
+0.113,0.715,329169,Huarache Lights,Hot Chip
+0.0414,0.811,312360,Leave House,Caribou
+0.704,0.597,318261,"Sweet Power Your Embrace",James Mason
+0.785,0.6,299711,Hunger Of The Pine,alt-J
+0.629,0.811,141000,Money Money,Horace Andy
+0.0167,0.797,211882,Symptom - Original Mix,Deapmash
+0.391,0.799,157068,I'll Do a Little Bit More,The Olympics
+0.0301,0.769,703107,Who Is He And What Is He To You,Creative Source
+0.27,0.865,462467,Bustin' Loose,Chuck Brown and the Soul Searchers
+0.107,0.826,253747,I Wish,Stevie Wonder
+0.96,0.508,250533,Baby,Donnie & Joe Emerson
+0.124,0.85,311120,More Bounce To The Ounce,Zapp
+0.0245,0.819,302000,Outlaw,War
+0.0194,0.896,474040,Walking Into Sunshine,Central Line
+0.0129,0.401,592920,Pyramids,Frank Ocean
+0.0106,0.346,301867,Lazuli,Beach House
+0.115,0.697,251267,Oblivion,Grimes
+0.195,0.605,209573,Obedear,Purity Ring
+0.034,0.691,425320,Flutes,Hot Chip
+0.0079,0.428,316444,Club Rez,Girl Unit
+0.00525,0.555,263213,Cry Like A Ghost,Passion Pit
+0.482,0.732,167547,Chained,The xx
+0.0124,0.633,284925,Disparate Youth,Santigold
+0.000199,0.284,141813,Cheap Beer,FIDLAR
+0.119,0.68,313787,Swimming Pools (Drank) - Extended Version,Kendrick Lamar
+0.0463,0.578,208139,Origins,Tennis
+0.0602,0.658,156707,Affection,Crystal Castles
+0.00914,0.385,180493,Comeback Kid,Sleigh Bells
+0.0555,0.735,260400,Losing You,Solange
+0.132,0.635,139931,Grown Up,Danny Brown
+0.0101,0.569,305680,"It's Not My Fault I'm Happy",Passion Pit
+0.000613,0.469,387640,How Deep Is Your Love?,The Rapture
+0.0571,0.502,287827,Are you... Can you... Were you? (Felt),Shabazz Palaces
+0.0212,0.597,260467,Second Song,TV On The Radio
+0.459,0.673,132049,Mornin',Star Slinger
+0.198,0.507,286413,Before,Washed Out
+0.0198,0.517,245013,Midnight City,M83
+0.00417,0.356,193653,Lonely Boy,The Black Keys
+0.00529,0.563,200600,Caffeinated Consciousness,TV On The Radio
+0.0039,0.567,176893,Wild Window,Fool's Gold
+0.00501,0.633,264000,Polish Girl,Neon Indian
+0.929,0.445,250200,Calgary,Bon Iver
+0.00145,0.575,250826,Civilization,Justice
+0.369,0.662,236733,Headlines,Drake
+0.00096,0.573,256800,Michael Jackson,Das Racist
+0.0244,0.605,369387,Need You Now,Cut Copy
+0.00632,0.374,172960,Abducted,Cults
+0.158,0.714,187293,Gucci Gucci,Kreayshawn
+0.00441,0.207,287667,Eyes Be Closed,Washed Out
+0.0729,0.589,248200,Echoes,Washed Out
+0.652,0.36,217798,The Daily Mail,Radiohead
+0.00091,0.516,251011,Civilization,Justice
+0.126,0.579,212227,Punch Drunk Love,Teams vs. Star Slinger
+0.0184,0.845,415371,Principles,Benoit & Sergio
+0.0914,0.568,277335,Slow Peels,Com Truise
+0.154,0.716,208027,Dead Wrong,Hanni El Khatib
+0.386,0.791,317467,Do It Roger,Zapp
+0.00983,0.795,218147,Pharaohs (feat. Roses Gabor),SBTRKT
+0.00215,0.584,318373,No Fun,The Stooges
+0.676,0.679,282308,Computer Love,Zapp
+0.0693,0.646,180036,Dutchie Courage,Star Slinger
+0.0961,0.704,241733,Osaka Loop Line,Discovery
+0.00254,0.812,237320,White Horse,Laid Back
+0.394,0.76,520133,Abataka - Original Mix,Ida Engberg
+2.15E-05,0.657,214600,Danger! High Voltage (Soulchild Radio Mix),Electric Six
+0.185,0.731,207496,Say Please,Teams vs. Star Slinger
+0.00649,0.805,213280,You Don't Love Me (No No No),Dawn Penn
+0.00947,0.718,171933,The Yes Strut,Teams vs. Star Slinger
+0.0507,0.597,183798,86 Carrot Gold,Teams vs. Star Slinger
+0.738,0.698,101039,Close to Me,Teams vs. Star Slinger
+0.000419,0.823,259680,How Do You See Me Now,Zdar
+0.00176,0.819,231747,See Me Now,Cassius
+0.02,0.671,200754,Every Freakin' - DJ Ayres remix,DJ Eleven
+0.00402,0.872,198101,Dance Our Way,DJ Eleven
+0.00241,0.85,205663,Flashing Lights,DJ Ayres
+0.652,0.36,217798,The Daily Mail,Radiohead
+0.196,0.76,263733,Bizness,tUnE-yArDs
+0.0305,0.874,217783,Long Heels Red Bottoms,Trina
+0.0229,0.527,188560,I Wanna Be Your Dog,The Stooges
+0.000963,0.767,317320,Jealousy,Martin Solveig
+0.233,0.328,225627,Embody,Sebastian
+0.0175,0.702,185840,Love In Motion - feat. Mayer Hawthorne,Sebastian
+0.00314,0.654,410897,Save the World,Swedish House Mafia
+0.0369,0.448,258653,Myth,Beach House
+0.0152,0.542,265480,Ready 2 Go,Martin Solveig
+0.00206,0.469,235301,We Are Young - The Popopopops Remix,Juveniles
+0.429,0.857,287200,Bop Gun (One Nation) - Radio Edit,Ice Cube
+0.000407,0.796,279952,La Funky,Destructo feat. Oliver
+0.0401,0.67,400742,In My Mind (Axwell Remix),Ivan Gough & Feenixpawl feat. Georgi Kay
+0.000299,0.697,238206,On'n'On - Ruined by Rick Rubin,Justice
+0.0193,0.352,248133,Don't Die,Killer Mike
+0.122,0.687,357280,Van Vogue,Azealia Banks
+0.0998,0.666,285320,How Do You Do?,Hot Chip
+0.0285,0.764,270680,Night And Day,Hot Chip
+0.0132,0.677,271480,Don't Deny Your Heart,Hot Chip
+0.275,0.735,212333,Focused - feat. Kid Cudi,Wale
+0.000483,0.286,242653,Neptune,Lemonade
+0.00138,0.881,259200,"Function - feat. YG IAmSu & Problem",E-40
+0.0086,0.246,237947,Didn't You,Cloud Nothings
+0.000248,0.515,172520,Search Party,Small Black
+0.0227,0.816,222920,Mi Swing es Tropical,Nickodemus
+0.00569,0.715,346773,Stock Exchange,Miss Kittin
+0.0365,0.829,336906,Changes,Crazy P
+0.289,0.444,346360,Play This (Also),J Rocc
+0.232,0.612,212944,Obedear,Purity Ring
+0.0989,0.7,285211,Slow Down,Poolside
+0.000869,0.754,295867,I Don't Like,Chief Keef
+0.148,0.327,275286,Sleeping Ute,Grizzly Bear
+0.0173,0.646,197132,Hands On the Wheel (feat. a$Ap Rocky),ScHoolboy Q
+0.00991,0.486,252707,The Kids Were Wrong,Memoryhouse
+0.473,0.551,283373,Walk With Me,Memoryhouse
+0.0246,0.586,374133,Her Fantasy,Matthew Dear
+0.00909,0.694,337187,Der Kommissar,After The Fire
+0.122,0.817,220987,Slow Down,Clyde Carson
+0.0764,0.611,255320,Genesis,Grimes
+0.419,0.727,239360,About to Die,Dirty Projectors
+0.229,0.485,330920,Best Night,The War On Drugs
+0.0413,0.52,269000,Brothers,The War On Drugs
+0.000105,0.399,304907,We Own The Sky,M83
+0.52,0.582,212602,Chicken Half,Sugarman Three
+0.0833,0.852,237533,Two Of Hearts,Stacey Q
+0.0156,0.623,289640,The Perfect Kiss,New Order
+0.145,0.844,265400,Can I Kick It?,A Tribe Called Quest
+0.0275,0.684,195373,Sure Thing,Miguel
+0.000103,0.498,322933,Kim & Jessie,M83
+0.0329,0.162,247027,Outro,M83
+0.0842,0.671,272175,We Are the People,Empire of the Sun
+0.597,0.792,239427,Look At Where We Are,Hot Chip
+0.0801,0.417,213853,Don't Owe You a Thang,Gary Clark Jr.
+0.0726,0.739,386907,Money Trees,Kendrick Lamar
+0.203,0.791,286213,Hood Pass Intact feat. MC Eiht,Dâm-Funk
+0.00341,0.491,128187,Got No Money,FIDLAR
+0.0581,0.748,306600,Birthday Song,2 Chainz
+7.79E-05,0.351,141305,Oh,FIDLAR
+0.001,0.48,139560,No Waves,FIDLAR
+3.41E-05,0.123,99413,Wake Bake Skate,FIDLAR
+0.00814,0.401,93267,No Ass,FIDLAR
+0.00023,0.228,182600,Black Out Stout,FIDLAR
+0.0214,0.465,295880,Plague,Crystal Castles
+0.11,0.438,192000,Kerosene,Crystal Castles
+0.0036,0.396,186627,Wrath Of God,Crystal Castles
+0.000183,0.596,178800,Pale Flesh,Crystal Castles
+0.000964,0.276,141627,Past Lives,DIIV
+0.104,0.241,194600,Pictures Of Matchstick Men,Status Quo
+0.000341,0.821,397166,Get Up,Craig Bratley
+0.854,0.354,476164,Cloud Atlas End Title,Tom Tykwer
+0.0372,0.638,210160,Keep You,Wild Belle
+0.0101,0.651,247360,Anything New,Bibio
+0.0543,0.625,193147,Adorn,Miguel
+0.169,0.759,346160,Louie Louie,Toots & The Maytals
+0.0175,0.726,190360,Under Mi Sensi,Barrington Levy
+0.8,0.611,448315,Loner,Burial
+0.0845,0.865,233300,Murderer,Barrington Levy
+0.00135,0.794,375179,Space Cakes - Original,Tanner Ross
+0.0193,0.614,323600,"There There",Radiohead
+0.0113,0.535,258413,Nightcall,Kavinsky
+0.453,0.815,230307,Jacket & Tie,Toyan
+0.00104,0.595,247175,Doom And Gloom - Jeff Bhasker Mix,The Rolling Stones
+4.06E-05,0.683,230587,All Of Me,Tanlines
+0.0829,0.722,192026,Females Welcomed (feat. Reija Lee),Trinidad James
+0.0985,0.647,277375,Blueberry (Pills & Cocaine) (feat. Danny Brown),Darq E Freaker
+0.000455,0.428,146227,Max Can't Surf,FIDLAR
+9.19E-06,0.325,109533,Wait for the Man,FIDLAR
+0.074,0.912,400751,Inspector Norse,Todd Terje
+0.0324,0.771,246573,Love Sosa,Chief Keef
+0.00069,0.759,398615,This Time Around,Softwar
+0.135,0.691,264213,See Blind Through,Canyons
+0.139,0.701,261120,Vowels = space and time,Grimes
+0.263,0.736,260413,Be A Body,Grimes
+0.131,0.564,171573,Unchained (The Payback / Untouchable),James Brown
+0.164,0.824,181800,Stomp - Dirty,5kinAndBone5
+0.0451,0.406,152040,Borrowed Time,Parquet Courts
+0.116,0.762,204293,Young N*****,Gucci Mane
+0.078,0.54,187847,All Gold Everything,Trinidad James
+0.109,0.834,389508,What I Might Do - Club Mix,Ben Pearce
+0.00855,0.714,155337,I Love It (feat. Charli XCX) - Original Version,Icona Pop
+0.0015,0.36,162168,Kenosha,Swearin'
+0.018,0.609,209760,Fineshrine,Purity Ring
+0.0047,0.777,309180,Flow,Disclosure
+0.135,0.749,267307,C'Est La Vie,Booba
+0.0202,0.67,260853,Caramel,Booba
+0.00627,0.684,228907,O.G,Booba
+0.151,0.633,321627,HLM 3,Lunatic
+0.049,0.594,457205,The Mighty Ming - Original Club Mix,Funkagenda
+0.0119,0.473,196664,Harlem Shake,Baauer
+0.00207,0.931,255844,Purp Walk,Lunice
+0.432,0.744,232611,Do You Like It? (Feat. Kool A.D),Chaz Van Queen
+0.0452,0.752,150053,Gucci On The Rise,Gucci Mane
+0.00469,0.821,280173,Hate Bein' Sober,Chief Keef
+0.00271,0.908,237293,Traffic,Lil Reese
+0.0401,0.636,267147,Hold Me Back,Rick Ross
+0.239,0.839,636213,Oldie,Odd Future
+0.0425,0.79,173160,Started From the Bottom,Drake
+0.0596,0.787,121874,Dum Dum,Baauer
+0.000451,0.603,342020,Higher - Extended,Just Blaze and Baauer
+0.00402,0.937,225940,"Gone Gone",Juicy J
+0.0912,0.748,275907,Rock Creek Park,The Blackbyrds
+0.00741,0.727,250587,Leaving Babylon,Bad Brains
+0.000117,0.857,222330,Trap Shit V7,UZ
+0.0295,0.793,432800,Good Life - Original 12'' Mix,Inner City
+0.0492,0.738,461560,Big Fun - Original 12'' Mix,Inner City
+0.00905,0.864,223071,Piss Test (feat. Juicy J & Dany Brown),A-Trak
+0.0234,0.688,219618,Can't Seem To Make You Mine,Sky Saxon & The Seeds
+0.423,0.786,267160,Borderline,Classixx
+0.00201,0.734,394857,Elevate - Q45 Remix,Toni Toni Lee
+0.0196,0.765,246823,With You (feat. Alexis Taylor),Carte Blanche (feat. Alexis Taylor)
+0.00263,0.725,238640,Can't Shake This Feeling,Grum
+0.014,0.962,156800,Check Me Out Like,Blaqstarr
+0.00167,0.845,292654,Second Summer,YACHT
+0.000321,0.5,261587,Demon To Lean On,Wavves
+0.0537,0.648,322760,Walk In The Park,Beach House
+0.00576,0.77,347387,Reckless (With Your Love),Azari & III
+3.13E-05,0.61,420384,Reckless (With Your Love) - Tensnake Remix,Azari & III
+0.00318,0.663,146906,Never Be Your Woman (Shy FX Radio Edit) [feat. Emeli Sandé],Wiley
+0.000548,0.831,155042,(Bonus) Break Her Down,Iamsu!
+0.0482,0.653,141724,Molly Ringwald,Danny Brown
+8.34E-05,0.72,255135,8 Feet Tall,Problem
+0.769,0.808,118353,36 Chamber Flow,Flatbush Zombies
+0.0302,0.798,216585,Trill Hoe,Western Tink
+0.00706,0.586,245733,Saturday Love,Toro y Moi
+0.15,0.695,240040,Sweater Weather,The Neighbourhood
+0.00749,0.587,250299,Oh My - Club Mix,The Partysquad
+0.0765,0.675,205533,Saltkin,Purity Ring
+0.116,0.671,239613,Lofticries,Purity Ring
+0.00221,0.632,156614,Get It In,Iamsu!
+0.0106,0.774,227327,My Bad - Club Mix,The Partysquad
+0.0415,0.941,207040,I'm Different,2 Chainz
+0.0426,0.794,248413,Get Lucky - Radio Edit,Daft Punk
+0.0436,0.805,192623,Had A Dream,EMP DASME
+0.00584,0.394,225680,Recover,CHVRCHES
+0.0347,0.635,224747,Now Is Not the Time,CHVRCHES
+0.00116,0.669,211042,MDA,Problem
+0.0637,0.742,304880,Pop That,French Montana
+0.244,0.624,205973,Young & Gettin' It - feat. Kirko Bangz,Meek Mill
+0.45,0.622,218480,Best Wishes,Iamsu!
+0.121,0.719,216000,Kids,Iamsu!
+0.000478,0.525,200015,Levitate,Paper Diamond
+0.14,0.525,291162,Get Free (feat. Amber of Dirty Projectors),Major Lazer
+0.000373,0.472,246427,Balance,Future Islands
+0.00417,0.9,262168,The Lion - Original Mix,The Partysquad
+0.000839,0.802,334849,For Your Love - Club Edit,The Partysquad
+0.000423,0.723,358436,For Your Love - Olav Basoski Remix,The Partysquad
+0.284,0.797,253187,Slippin’,Quadron
+0.00255,0.869,224107,Take You On,Peaches
+0.0302,0.756,256933,One of Those Nights,Juicy J
+0.0267,0.821,632693,Get Lucky - Daft Punk Remix,Daft Punk
+0.000891,0.806,297907,No Way Back,Adonis
+0.152,0.702,420107,Ride The Rhythm,On The House featuring Marshall Jefferson
+0.0956,0.646,282791,Move Your Body - Extended Mix,Benny Benassi
+0.000736,0.491,281853,Rockin' In The Free World,Neil Young
+0.028,0.291,192960,Feels Like We Only Go Backwards,Tame Impala
+0.274,0.683,266173,Half Full Glass of Wine,Tame Impala
+0.00845,0.799,207843,"Bubble Butt [Radio Mix] [feat. Bruno Mars 2 Chainz Tyga & Mystic]",Major Lazer
+0.00968,0.836,230627,Wop (Official Version),J. Dash
+0.0613,0.931,202199,Don’t Drop That Thun Thun,Finatticz
+0.00579,0.683,284267,Give It Away,Red Hot Chili Peppers
+0.0472,0.379,570733,Wakin on a Pretty Day,Kurt Vile
+0.000289,0.771,227143,Hulk (Dillon Francis Remix),Clockwork
+0.000183,0.695,295714,Dill the Noise,Dillon Francis and Kill The Noise
+0.000258,0.375,212947,Dead Sound,The Raveonettes
+0.00533,0.421,164289,Rvtchet Bitch,Brillz & Teddy Tuxedo
+0.0216,0.886,217893,Swing,Savage
+0.0597,0.65,242056,You & Me - Baauer Remix,Disclosure
+0.0155,0.76,285651,Next Order,Dog Blood
+0.0645,0.824,180107,It's You,Duck Sauce
+0.0553,0.482,350120,m.A.A.d city,Kendrick Lamar
+0.00778,0.786,263120,Bounce It,Juicy J
+0.00842,0.853,139240,Pu$$y Magnet (feat. Keayshawn),Roach Gigz
+0.315,0.794,236280,Fashion Killa,A$AP Rocky
+0.114,0.725,251333,I Wanna Be With You,DJ Khaled
+0.025,0.854,207264,Gas Pedal (feat. IamSu),Sage The Gemini
+0.436,0.862,198531,Red Nose,Sage The Gemini
+0.461,0.432,262857,"U.O.E.N.O. Remix (feat. Future Wiz Khalifa)",Rocko
+0.0235,0.847,246100,VERSACE,Flap Jack
+0.444,0.654,165432,Strictly 4 My Jeeps,Action Bronson
+0.000134,0.701,389493,The Giver - Original Mix,Duke Dumont
+0.00264,0.844,310334,Lean & Bounce,Duke Dumont
+0.155,0.582,311093,Swishas and Dosha - Main Version - Clean,UGK
+0.0352,0.697,172760,Players Anthem,UGK
+0.003,0.766,227027,Hold On We're Going Home,Drake
+0.426,0.872,188347,Living,2 Chainz
+0.0152,0.621,335156,Taylor Gang - Bonus Track,Wiz Khalifa
+0.311,0.675,205740,I'm A Martian,Brian Pumper
+0.104,0.689,229853,The Drop,Bro Safari
+0.011,0.63,160858,Drippin,MiM0SA
+0.00246,0.514,296400,Heaven,TR/ST
+0.0557,0.599,222160,I Need You,Glass Figure
+0.0281,0.64,197120,From Nowhere,Dan Croll
+0.475,0.599,228467,I Follow Rivers,Lykke Li
+0.356,0.667,234994,L'Amour Parfait,Yelle
+0.109,0.742,214693,Northern Lights,Kate Boy
+0.0938,0.874,281373,Shabba,A$AP Ferg
+0.152,0.726,178507,Work,A$AP Ferg
+0.0247,0.834,285947,Work REMIX,A$AP Ferg
+0.00469,0.712,252313,The Way We Are,Kate Boy
+0.422,0.422,260276,"U.O.E.N.O. (feat. Rick Ross Future)",Rocko
+0.268,0.651,182384,Now You Do,A-1
+0.00142,0.728,294011,Holding On - Jerome LOL Remix,Classixx
+0.0296,0.907,849960,Music Is the Answer - Original Extended 12-Inch Mix,Celeda
+0.00255,0.855,233272,Test Me - UZ Remix,Flosstradamus & DJ Sliink
+0.000901,0.769,215294,Test Me,Flosstradamus & DJ Sliink
+0.00525,0.7,307467,No New Friends - SFTB Remix,DJ Khaled
+0.0215,0.825,199973,R.I.P.,Jeezy
+0.015,0.607,216453,Baby Blue,Badfinger
+0.0193,0.751,211825,Dip,Danny Brown
+0.32,0.723,210880,25 Bucks [feat. Purity Ring],Danny Brown
+0.00152,0.626,299383,Fascism,Sam Sparro
+0.00723,0.743,259683,Marc Jacobs,Riff Raff
+0.224,0.752,437293,One Of Us - Original Mix,Iron Galaxy & Sexlife
+0.000768,0.66,214636,Can We Go Up?,Paper Diamond
+0.00144,0.211,162436,This Lonely Morning,Best Coast
+0.0252,0.528,290933,Time Has Come Today,The Chambers Brothers
+4.91E-05,0.442,207027,Sad Eyes,Crystal Castles
+0.0468,0.876,170480,Wearing My Rolex - Radio Edit,Wiley
+0.00174,0.67,174122,Need U (100%) [feat. A*M*E] [Radio Edit],Duke Dumont
+0.268,0.237,311680,Stoned and Starving,Parquet Courts
+0.0438,0.59,453949,Reflektor,Arcade Fire
+0.000334,0.907,183581,Jack,Breach
+0.0175,0.764,198907,Tennis Court,Lorde
+0.0426,0.667,280080,Primetime (feat. Miguel),Janelle Monáe
+0.00349,0.772,227880,Hold On We're Going Home,Drake
+0.717,0.345,237973,Hannah Hunt,Vampire Weekend
+0.0151,0.502,255632,Latch,Disclosure
+0.03,0.35,313707,Play by Play,Autre Ne Veut
+0.344,0.69,237040,I Blame Myself,Sky Ferreira
+0.278,0.716,205800,Sunday,Earl Sweatshirt
+0.591,0.624,251627,Step,Vampire Weekend
+0.189,0.74,261360,You're Not Good Enough,Blood Orange
+0.0543,0.81,527705,Strandbar (disko),Todd Terje
+0.886,0.574,217053,Open,Rhye
+0.076,0.741,257733,Falling,HAIM
+0.00963,0.667,277688,White Noise,Disclosure
+0.000195,0.122,377177,Bumpy Road,Destruction Unit
+0.0715,0.869,275867,Shabba,A$AP Ferg
+0.0246,0.841,283693,Work REMIX,A$AP Ferg
+0.0116,0.816,224853,Dope,Tyga
+0.649,0.288,171620,Here Comes The Night Time II,Arcade Fire
+0.0392,0.57,405213,Warm In The Winter,Glass Candy
+0.00626,0.807,442213,Don't Let It Get to Your Head,Black Harmony
+0.0086,0.656,224286,We Fall Down,ASTR
+0.0152,0.333,264384,R U With Me,ASTR
+0.064,0.652,224685,Blue Hawaii,ASTR
+0.000986,0.771,218356,Razor,ASTR
+0.949,0.619,240707,Stay,Rihanna
+0.000483,0.701,224200,The Sound Of San Francisco - Progressive Album Mix,Global Deejays
+0.503,0.683,250653,Sunshine Of Your Love,Cream
+0.364,0.507,180000,Somebody to Love,Jefferson Airplane
+0.514,0.529,178507,San Francisco (Be Sure to Wear Flowers In Your Hair) - Single Version,Scott McKenzie
+0.351,0.561,155040,White Rabbit,Jefferson Airplane
+0.000294,0.827,352341,Pleasure Power (DJ Smash Disco Remix),Afrolicious
+0.134,0.359,229147,Bound 2,Kanye West
+0.00969,0.589,323480,Drunk in Love,Beyoncé
+7.59E-05,0.597,343878,Viol - Original Mix,Gesaffelstein
+0.00778,0.677,256133,Good Mistake,Mr Little Jeans
+0.0261,0.556,260147,Runaway,Mr Little Jeans
+0.0416,0.348,223227,Fall In Love,Phantogram
+0.00207,0.468,235920,You’re Not The One,Sky Ferreira
+0.162,0.529,230213,Sacrilege,Yeah Yeah Yeahs
+0.0233,0.824,299960,Collard Greens,ScHoolboy Q
+0.37,0.645,272453,Hell Of A Night,ScHoolboy Q
+0.00392,0.683,201987,1977,Ana Tijoux
+0.14,0.85,220347,Latino & Proud,DJ Raff
+0.0796,0.868,342773,Move That Dope,Future
+0.00135,0.702,218483,Slasherr,Rustie
+0.858,0.741,227627,Outlines,AlunaGeorge
+0.464,0.655,190330,Platoon,Jungle
+0.00539,0.749,216013,Man Of The Year,ScHoolboy Q
+0.00011,0.742,449499,Spacer Woman - Vocal,Charlie
+0.000595,0.805,445417,Nobody Else - Original Mix,Dusky
+0.421,0.876,240000,Stoner,Young Thug
+0.00767,0.541,308360,Elevate,St. Lucia
+0.112,0.857,223784,Independent - House Remix,Hoodfellas
+0.000518,0.771,393387,Au Seve,Julio Bashmore
+0.0235,0.761,387774,Synchronize,Discodeine
+0.00204,0.805,285015,Don't Miss,The Alexanders
+0.00118,0.682,295020,Coucou disco,Dim Sum
+0.000725,0.801,315001,Vowel Play - Original,Them Jeans
+0.00188,0.661,311920,The Devil Is A Lie,Rick Ross
+0.0454,0.895,194133,North North,Project Pat
+0.548,0.706,206148,Temporary View,SBTRKT
+0.15,0.516,210680,"III. Telegraph Ave. (""Oakland"" by Lloyd)",Childish Gambino
+0.106,0.653,184538,Accelerate,Jungle
+0.763,0.707,275227,0 To 100 / The Catch Up,Drake
+0.0505,0.794,194561,Hot N*gga,Bobby Shmurda
+0.394,0.484,160187,You'll Never Walk Alone - 2002 Remastered Version,Gerry & The Pacemakers
+0.000599,0.487,324807,Your Soul,Hippie Sabotage
+0.0126,0.6,588520,dance yrself clean - live at madison square garden,LCD Soundsystem
+0.713,0.628,303560,Running Up That Hill (A Deal With God),Kate Bush
+0.0323,0.227,230373,High Ball Stepper,Jack White
+0.768,0.275,283872,The Great Gig In The Sky - 2011 Remastered Version,Pink Floyd
+0.00416,0.644,211200,All We Need (feat. Shy Girls),ODESZA
+0.00692,0.564,212986,Catamaran,Allah-Las
+0.712,0.277,235747,Fool,Perfume Genius
+0.296,0.609,291092,Bulbform,TR/ST
+0.000563,0.417,167091,Passing Out Pieces,Mac Demarco
+0.36,0.784,212154,Tuesday,ILoveMakonnen
+0.0674,0.289,149013,Drop Dead Baby,Ty Segall
+0.00342,0.313,155013,My Sunshine,Ty Segall
+0.000588,0.803,426850,BIG Fun - Full Intention 88 Remix,Inner City
+0.0421,0.895,232533,Natty Dread A Weh She Want,Horace Andy
+0.0326,0.598,228707,DLZ,TV On The Radio
+0.123,0.749,258773,Whatcha Gonna Do,Koopsta Knicca
+0.0625,0.758,252333,18 With A Bullet,Pete Wingfield
+0.602,0.746,190733,The Boss,James Brown
+0.00234,0.191,194400,Drifting In And Out,Porcelain Raft
+0.0389,0.856,194747,Made Me,Snootie Wild
+0.605,0.583,263397,Way to be Loved,TOPS
+0.00042,0.22,82893,Just Wanna Love You Girl,Epsilons
+0.464,0.535,178867,Be Brave,The Strange Boys
+0.619,0.722,175867,Tupelo (Pt. 1) - Single Version,Albert King
+0.0758,0.747,229640,Candyman,Cornershop
+0.565,0.63,247293,Somebody Was Watching,Pops Staples
+0.615,0.508,174067,Tupelo - Part 1,Pop Staples
+0.207,0.54,360867,Tupelo,Steve Cropper
+0.114,0.665,216728,"Damn Son Where'd You Find This? - Future of TRAP Mix",Trendsetter
+0.00884,0.51,286290,I'm in LOVE With GO-GO Dancer (Disco Diva) - Future of TRAP Mix,Trendsetter
+0.114,0.665,216728,Damn Son Where'd You Find This? (feat. Kelly Holiday) - Markus Maximus Remix,Markus Maximus
+0.000321,0.647,369235,Work - The Advent & Spiriakos Remix,ZZT
+0.612,0.649,175733,Mannish Boy,Muddy Waters
+0.172,0.683,315094,Holding On,Disclosure
+0.99,0.148,175173,"Mozart: Requiem in D Minor K. 626: VIII. Lacrimosa",Nikolaus Harnoncourt
+0.227,0.873,165544,My Main,Mykfresh
+0.00497,0.376,825027,Southern Man - Live,"Crosby Stills Nash & Young"
+0.0113,0.523,203046,Won't Look Back,Duke Dumont
+0.0226,0.586,214227,Chrome Knight - Feat. Chromeo,Surkin
+0.666,0.827,202360,Black Boy,Pops Staples
+0.11,0.589,382733,Give Me The Sunshine,Leo's Sunshipp
+0.391,0.702,311892,Motherless Child,Romare
+0.0975,0.582,252038,Giudecca,Ghost Culture
+0.0169,0.374,293851,Living Every Dream,Antwon
+0.0339,0.422,259301,Easy Rider,Action Bronson
+0.127,0.474,271822,Nissim,The Gaslamp Killer
+0.13,0.61,178560,Topless,Orlando Julius
+0.597,0.571,207360,Breakthrough,The Funkees
+0.0672,0.802,451341,Stand Up - Tiger & Woods Remix,Pitchben
+0.218,0.793,194240,Blow a Bag,Future
+0.0319,0.846,328962,Ain't got nobody,Sísý Ey
+0.269,0.575,302987,I Want'a Do Something Freaky To You,Leon Haywood
+0.000997,0.787,484853,I Got a Feeling,Shit Robot
+0.304,0.614,218413,Standard,Empress Of
+0.103,0.835,389508,What I Might Do - Club Mix,Ben Pearce
+0.201,0.696,398747,Let's Lovedance Tonight - Danny Krivit Re-edit - Original Disco Version,Gary's Gang
+0.611,0.597,172667,Do You Love Me,The Contours
+0.0185,0.609,377893,Too Bad I Have To Destroy You Now,Kid Cudi
+0.737,0.571,176800,Louie Louie,The Sonics
+0.229,0.494,147893,Heart Full of Soul,The Yardbirds
+0.236,0.347,150627,For Your Love,The Yardbirds
+0.436,0.684,250000,Sunshine Of Your Love,Cream
+0.000641,0.787,520311,Taifa - The Emperor Machine Mix,Partial Arts
+0.00254,0.696,502888,Taifa,Partial Arts
+0.0043,0.894,376000,Make It,Patrick Di Stefano
+0.00524,0.81,418187,Face It,Master C & J
+0.0263,0.739,257600,Mary-Mary (M&M Unreleased Mix) [feat. Dajae],Grand High Priest
+0.000173,0.641,262000,Supernature - Edit,Cerrone
+0.136,0.829,321067,I'll Be Good,Rene & Angela
+0.00479,0.777,318470,Defected In The House Ibiza 2013 Mixtape,Simon Dunmore
+0.271,0.567,336800,"A Day In The Life - feat. RZA The Mars Volta & AG + Good Hygiene feat. Tim Meadows Amended CD Version",Handsome Boy Modeling School
+0.934,0.44,254360,Episode I - Duel of The Fates,John Williams
+0.813,0.745,132947,Three Cool Cats,The Coasters
+0.00113,0.616,200800,Mercy,The Third Degree
+0.557,0.462,176147,Do I Love You?,The Ronettes
+0.916,0.334,700027,Night on Bald Mountain,Modest Mussorgsky
+0.00325,0.686,280480,Akue We Non Houme - Jerk Fon,T. P. Orchestre Poly-Rythmo
+0.517,0.691,445227,Ecoute ma mélodie - Bossa Afro,T. P. Orchestre Poly-Rythmo
+0.292,0.592,265827,Ole,The Funkees
+0.0164,0.653,373333,Greetings,Joni Haastrup
+0.0314,0.86,304138,5thep,Todd Osborn
+0.0114,0.682,319760,Cavern,Liquid Liquid
+0.0491,0.703,194147,Your Love,Mick Jenkins
+0.895,0.444,151092,Sleepwalk,Santo & Johnny
+0.0624,0.476,309064,What I Might Do - Kilter Remix,Ben Pearce
+0.000286,0.313,309524,Waiting Around For Grace,Pond
+4.19E-05,0.636,326129,Nobodys Fool - Ben Pearce Remix,Real Connoisseur
+0.0983,0.632,342173,Smoke On The Water,Deep Purple
+0.314,0.43,193427,Able to See Me,Hippie Sabotage
+0.809,0.833,186567,Oogum Boogum Song,Brenton Wood
+0.723,0.688,427227,The Gaudy Side of Town,Gayngs
+0.577,0.438,290587,The Walker,Gayngs
+0.59,0.789,219129,Ultimate Painting,Ultimate Painting
+0.156,0.819,214154,Agorinha,Sango
+0.887,0.366,210400,I'm Glad,Captain Beefheart & His Magic Band
+0.149,0.71,255333,Apollo Throwdown (Star Slinger Remix),The Go! Team
+0.00727,0.582,302120,Boys Life,Small Black
+0.349,0.545,212147,Dirt And Grime,Fathers Children
+4.61E-06,0.479,230560,Pedestrian at Best,Courtney Barnett
+0.0175,0.564,220573,Middle,DJ Snake
+0.198,0.89,326318,Something About You - Extended Mix,Hayden James
+0.00543,0.363,178772,Only You,Mac Demarco
+0.101,0.867,302880,The One,ZHU
+0.612,0.59,219560,Way Down We Go,Kaleo
+0.000825,0.832,365747,Deeper Than Love,Colleen Green
+0.478,0.839,181260,Back Pocket,Vulfpeck
+0.0716,0.447,156467,All I Wanna Do,The Beach Boys
+0.0328,0.598,260400,Water,Jamaican Queens
+0.0664,0.643,335399,You,Ejeca
+0.00324,0.746,383107,Voodoo Ray - Danny Tenaglia Remix,A Guy Called Gerald
+0.000624,0.906,311365,Jack,Breach
+0.000334,0.907,183581,Jack,Breach
+0.331,0.578,237672,Mary Jane (Jamie Xx - Girl Remix),Jamie xx
+0.00431,0.808,362282,Chunky - Club Mix,Format:B
+0.0252,0.745,272677,One Who Lost,DJ Dodger Stadium
+0.0125,0.634,405933,Delorean Dynamite,Todd Terje
+0.198,0.603,145773,Do You Want a Man - Heaven & Hell Remix,William Onyeabor
+0.00166,0.587,205307,Celebrando,CLUBZ
+0.0289,0.93,204992,No Eyes (Radio Edit),Claptone
+0.0124,0.585,264000,Fanfare,Magic City Hippies
+0.0245,0.803,316373,Dorothy,Polo & Pan
+0.411,0.757,199200,Long Cool Woman (In A Black Dress) - 1999 Remastered Version,The Hollies
+0.157,0.729,267000,Bang A Gong [Get It On] (Remastered Single/LP Version),T. Rex
+2.60E-05,0.76,272082,Paris Groove (Original Mix),Boston Bun
+0.000885,0.79,312000,Nothing,HNNY
+0.207,0.786,206081,Hey DJ,Worlds Famous Supreme Team
+0.242,0.708,196000,Tighten Up - Pt. 1,Archie Bell & The Drells
+0.643,0.729,261853,Ohye Atar Gyan,Ebo Taylor
+0.312,0.76,370813,Heaven,Ebo Taylor
+0.847,0.661,128053,I'm Walkin' - 2002 Digital Remaster,Fats Domino
+0.00428,0.704,405560,"Bizarre Love Triangle - Shep Pettibone 12"" Remix",New Order
+0.0154,0.606,195307,Dreams Never End - 2015 Remastered Version,New Order
+0.00207,0.587,546467,Plastic - Extended Mix,New Order
+0.16,0.66,172507,You Are the Right One,Sports
+0.000779,0.34,207813,Let Me Try,Kaleidoscope
+0.0476,0.723,418880,Thinking of You,Lord Echo
+0.717,0.285,163213,Just Say The Word,Jerry Townes
+0.218,0.63,590707,Obi Agye Me Dofo,Vis à Vis
+0.783,0.418,219800,I'm Going Down,Rose Royce
+0.087,0.529,258440,Said So What,French Kicks
+0.0112,0.465,232867,Carl Sagan,Night Moves
+0.0133,0.69,498333,Muzik Xpress,X-Press 2
+0.0044,0.449,234613,A Hundred Ropes,Minor Victories
+0.9,0.582,238400,No Woman,Whitney
+0.934,0.44,254360,Episode I - Duel of The Fates,John Williams
+0.0395,0.669,574800,Giant,The The
+0.189,0.622,319125,Hush,Magic City Hippies
+6.89E-05,0.286,215822,Desire,DILLY DALLY
+0.0552,0.373,202200,Shut Up Kiss Me,Angel Olsen
+0.136,0.906,235040,No Heart,21 Savage
+0.00134,0.789,162815,We Want Some Pussy,Ezale
+0.155,0.822,156879,We Out Here,Ezale
+0.0599,0.756,257053,By Design,Kid Cudi
+0.189,0.555,52006,Aloha,Chris Bear
+0.0633,0.897,334467,Bad and Boujee (feat. Lil Uzi Vert),Migos
+0.56,0.654,185804,The Winner Is - from Little Miss Sunshine,DeVotchKa
+0.0442,0.679,321560,Virile,The Blaze
+0.0004,0.804,434958,Let Me Tell U,Jimmy Edgar
+0.078,0.815,489750,Wonky Bassline Disco Banger,Red Rack'Em
+1.65E-05,0.499,395200,Remember,Gino Soccio
+0.0423,0.84,397388,Anti Social Tendencies,The Parallax Corporation
+0.0109,0.816,179865,What Time Is Love (Live at SSL mix),Lifelike
+0.016,0.646,142584,The Spirit Blossoms All Over the Land,Onra
+0.028,0.658,109031,On the Lips,Frankie Cosmos
+0.00159,0.865,250273,Stripper,Fancy Fux
+0.003,0.754,281658,Operator (Ring Ring) ft. Dances With White Girls,Chris Lake
+0.0372,0.89,400926,Big Jet Plane - Animal Trainer Remix,Jan Blomqvist
+0.514,0.731,515087,Fight,Nicolas Jaar
+0.109,0.748,250000,Bambi,Jidenna
+0.758,0.744,169333,Raindrops,The Silvertones
+0.34,0.77,181867,Truths & Rights,Johnny Osbourne
+0.269,0.663,361173,Smoke,Ohio Players
+0.411,0.236,186426,You Are My Special Angel,The Vogues
+0.666,0.354,138933,Just A Little Lovin',Dusty Springfield
+0.517,0.367,215840,Unchained Melody,The Righteous Brothers
+0.00594,0.58,213560,Howl,Florence + The Machine
+0.0173,0.916,183695,For Free,DJ Khaled
+0.0681,0.767,430576,Mystery Of Love,Mr. Fingers
+0.0853,0.864,126467,Hung Over,The Martini's
+0.661,0.457,176613,"Bold Soul Sister Bold Soul Brother - USDEA0400901",The Black On White Affair
+0.543,0.785,196570,Cane Shuga,Glass Animals
+0.211,0.418,230720,Queen,Perfume Genius
+0.0378,0.81,369627,Get Lucky,Daft Punk
+0.0159,0.588,269267,Bugatti,Ace Hood
+0.0384,0.841,195474,Versace,Migos
+0.000954,0.775,188013,Black Skinhead,Kanye West
+0.147,0.85,261321,Type of Way,Rich Homie Quan
+0.00444,0.413,225867,Recover,CHVRCHES
+0.222,0.76,199227,Bitter Rivals,Sleigh Bells
+0.0745,0.409,175480,Gonna Die,Autre Ne Veut
+0.957,0.342,171613,Angels,The xx
+0.0475,0.606,228147,GOT IT GOOD,KAYTRANADA
+0.00369,0.647,285596,I Got U,Duke Dumont
+0.0216,0.709,343800,Something About You - ODESZA Remix,Hayden James
+0.156,0.378,282053,Oblivion,The Seshen
+0.112,0.555,187000,Distant Heart,The Seshen
+0.382,0.735,277975,Finally Moving,Pretty Lights
+0.0564,0.607,248000,Want My Love,Cathedrals
+0.0369,0.448,258653,Myth,Beach House
+0.655,0.507,194253,Weary,Solange
+0.138,0.667,250707,Treat Me Like Fire,LION BABE
+0.345,0.855,225181,Something About You,Hayden James
+0.2,0.739,556924,Let It Happen - Soulwax Remix,Tame Impala
+0.0739,0.833,301240,Hood Pass Intact,Dâm-Funk
+0.00535,0.654,247600,Let's Dance (Single Version) [2002 Remastered Version],David Bowie
+0.208,0.514,233818,Ode To Viceroy,Mac Demarco
+0.0019,0.468,260013,Five Seconds,Twin Shadow
+0.135,0.756,246893,No Sleep Till Brooklyn,Beastie Boys
+0.0208,0.869,233787,F**kin' Problems,A$AP Rocky
+0.144,0.709,310187,Swerve... the reeping of all that is worthwhile (Noir not withstanding),Shabazz Palaces
+0.0559,0.521,182160,Never Saw The Point,Cults
+0.0852,0.858,203373,212,Azealia Banks
+4.69E-06,0.566,123547,Forgiven/Forgotten,Angel Olsen
+0.148,0.701,462267,All My Friends,LCD Soundsystem
+0.374,0.772,167158,Lay Up,Future
+0.142,0.714,135920,Father Stretch My Hands Pt. 1,Kanye West
+0.0313,0.515,238419,Big For Your Boots,Stormzy
+0.00531,0.859,219737,No Security,Skepta
+0.0381,0.709,176589,Fam,Saskilla
+0.102,0.699,197452,Mr Skeng,Stormzy
+0.377,0.497,196480,Beauty and the Beast,Bugzy Malone
+0.0669,0.832,187585,I Win,Lethal Bizzle
+0.285,0.88,151987,Plottin,J HUS
+0.289,0.506,240363,M.E.N,Bugzy Malone
+0.202,0.732,156961,Cold,Stormzy
+0.671,0.539,166304,Toothache,Jaykae
+0.352,0.494,179009,Coward,Chip
+0.00298,0.545,278227,3 Wheel-ups (feat. Wiley & Giggs),Kano
+0.397,0.739,181714,T On the Wing,President T
+0.134,0.603,246685,Bad Boys (feat. Ghetts and J Hus),Stormzy
+0.0641,0.667,201964,Thiago Silva,Dave
+0.375,0.561,195419,And Dat (Ft. Stormzy),Bonkaz
+0.258,0.812,181114,6 In The Morning,Wiley
+0.0103,0.745,143214,Skepta Interlude,Drake
+0.329,0.673,213251,Man Don't Care,Jme
+0.35,0.794,187400,Luke Cage,AJ Tracey
+0.1,0.575,188875,Shutdown,Skepta
+0.819,0.64,227222,My Old Man,Zac Brown Band
+0.0677,0.587,180252,Losing Sleep,Chris Young
+0.013,0.631,187813,Sleep Without You,Brett Young
+0.231,0.589,194413,Yeah Boy,Kelsea Ballerini
+0.000907,0.612,227373,Craving You,Thomas Rhett
+0.01,0.553,154320,More Girls Like You,Kip Moore
+0.0538,0.548,188293,Heart Break,Lady Antebellum
+0.151,0.528,251067,Cut Your Groove,Charlie Worsham
+0.27,0.663,211160,Black,Dierks Bentley
+0.0549,0.53,187760,The Weekend,Brantley Gilbert
+0.0966,0.525,190227,Reasons,Jillian Jacqueline
+0.0244,0.553,206573,Small Town Boy,Dustin Lynch
+0.0102,0.533,208733,Yours If You Want It,Rascal Flatts
+0.148,0.726,231173,Roots,Zac Brown Band
+0.00733,0.584,171067,Sunday Morning,Parmalee
+0.0165,0.443,223800,Hurricane,Luke Combs
+0.124,0.521,176987,Think A Little Less,Michael Ray
+0.661,0.476,231920,Speak to a Girl,Tim McGraw
+0.0159,0.591,185474,Man Enough Now,Chris Bandi
+0.335,0.5,214507,If I Told You,Darius Rucker
+0.234,0.674,167200,Happy People,Little Big Town
+0.144,0.631,227573,All On Me,Devin Dawson
+0.0494,0.562,217280,Somethin' I'm Good At,Brett Eldredge
+0.214,0.638,196422,I Could Use a Love Song,Maren Morris
+0.733,0.409,16042,Zac Brown Band - Hot Country,Various Artists
+0.0968,0.434,266787,Trying To Drive,Zac Brown Band
+0.333,0.439,183413,"God Your Mama And Me",Florida Georgia Line
+0.0915,0.533,230722,Real Thing,Zac Brown Band
+0.0207,0.434,195307,They Don't Know,Jason Aldean
+0.0558,0.523,214800,Every Time I Hear That Song,Blake Shelton
+0.00898,0.612,188253,What Ifs,Kane Brown
+0.0993,0.51,211227,For Her,Chris Lane
+0.424,0.55,232253,Act Like You Don't,Brooke Eden
+0.397,0.596,224853,In Case You Didn't Know,Brett Young
+0.0166,0.622,194240,Two Black X's,Dylan Schneider
+0.0344,0.659,183747,You Look Good,Lady Antebellum
+0.00566,0.479,178027,Close,Ryan Kinder
+0.186,0.56,209840,Ain't Always Pretty,Logan Mize
+0.0179,0.512,187342,Love in a Bar,Ryan Hurd
+0.0292,0.403,211307,Family Table,Zac Brown Band
+0.312,0.536,203293,Any Ol' Barstool,Jason Aldean
+0.116,0.685,201893,Dirt On My Boots,Jon Pardi
+0.638,0.71,186627,Just a Phase,Adam Craig
+0.463,0.731,165387,Body Like A Back Road,Sam Hunt
+0.208,0.501,192000,How Not To,Dan + Shay
+0.861,0.425,259280,Tin Man,Miranda Lambert
+0.0209,0.458,211240,Blue Tacoma,Russell Dickerson
+0.0406,0.488,226173,May We All,Florida Georgia Line
+0.422,0.482,230832,Last Time for Everything,Brad Paisley
+0.0527,0.442,173187,Getting Over You,Jackie Lee
+0.00434,0.555,177067,Flatliner (feat. Dierks Bentley),Cole Swindell
+0.0551,0.41,158667,Like You That Way,Canaan Smith
+0.273,0.507,216187,Hometown Girl,Josh Turner
+0.129,0.69,181200,Star Of The Show,Thomas Rhett
+0.865,0.641,248053,Either Way,Chris Stapleton
+0.279,0.655,178840,No Such Thing as a Broken Heart,Old Dominion
+0.2,0.529,215600,There’s A Girl,Trent Harmon
+0.0304,0.681,184040,The Fighter,Keith Urban
+0.229,0.694,228827,Despacito - Remix,Luis Fonsi
+0.231,0.755,229849,Felices los 4,Maluma
+0.0744,0.684,208163,SUBEME LA RADIO,Enrique Iglesias
+0.0258,0.746,205741,Me Rehúso,Danny Ocean
+0.243,0.683,219507,El Amante,Nicky Jam
+0.0245,0.747,232787,Escápate Conmigo,Wisin
+0.286,0.706,271080,Ahora Dice,Chris Jeday
+0.168,0.859,195613,Chantaje,Shakira
+0.0277,0.489,194942,Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) - Spanish Version,Pitbull
+0.154,0.889,201280,Sigo Extrañándote,J Balvin
+0.0559,0.832,209453,Otra Vez (feat. J Balvin),Zion & Lennox
+0.116,0.685,204520,La Rompe Corazones,Daddy Yankee
+0.27,0.639,307910,"Sola (Remix) [feat. Daddy Yankee Wisin Farruko Zion & Lennox]",Anuel Aa
+0.209,0.66,228200,Despacito (Featuring Daddy Yankee),Luis Fonsi
+0.4,0.761,222560,Reggaetón Lento (Bailemos),CNCO
+0.0309,0.792,205520,Hey DJ,CNCO
+0.547,0.76,210323,Me Llamas (feat. Maluma) - Remix,Piso 21
+0.211,0.711,225813,Me Enamoré,Shakira
+0.205,0.735,193118,Tu Foto,Ozuna
+0.00431,0.663,259196,Vente Pa' Ca,Ricky Martin
+0.551,0.508,205600,Safari,J Balvin
+0.0897,0.745,223613,Alguien Robo,Sebastian Yatra
+0.256,0.772,238800,Vacaciones,Wisin
+0.125,0.761,211627,Te Quiero Pa´Mi,Don Omar
+0.167,0.761,252003,Ay Mi Dios,IAmChino
+0.142,0.776,228467,Traicionera,Sebastian Yatra
+0.204,0.685,221027,Si Tú La Ves,Nicky Jam
+0.053,0.724,197087,Lumbra,Cali Y El Dandee
+0.206,0.746,227457,La Bicicleta,Carlos Vives
+0.163,0.817,207200,Bailame,Nacho
+0.0998,0.721,226400,Dile Que Tu Me Quieres,Ozuna
+0.39,0.732,196480,Deja vu,Prince Royce
+0.245,0.682,228147,Sé Que Te Duele,Alejandro Fernandez
+0.132,0.73,207307,Borro Cassette,Maluma
+0.0786,0.724,200813,DUELE EL CORAZON,Enrique Iglesias
+0.0244,0.68,247493,Andas En Mi Cabeza,Chino & Nacho
+0.0724,0.827,197840,Chillax,Farruko
+0.282,0.832,198707,Hasta el Amanecer,Nicky Jam
+0.163,0.688,240000,Bailame Despacio,Xantos
+0.076,0.899,234320,Shaky Shaky,Daddy Yankee
+0.0345,0.724,181048,Besándote,Piso 21
+0.0685,0.712,199281,Ando buscando (feat. Piso 21),Carlos Baute
+0.113,0.801,236493,Hula Hoop,Daddy Yankee
+0.0869,0.49,246853,Qué Gano Olvidándote - Versión Urbana,Reik
+0.234,0.768,219227,Ya Me Enteré (feat. Nicky Jam) - Urban Version,Reik
+0.0821,0.725,246653,Mi Tesoro (feat. Nicky Jam),Zion & Lennox
+0.803,0.612,245493,Tú Sí Sabes Quererme,Natalia Lafourcade
+0.189,0.67,276688,Si Me Dices Que Si (feat. Nicky Jam),Cosculluela
+0.0525,0.779,166600,Fuego,Juanes
+0.051,0.712,214072,Al Filo de Tu Amor,Carlos Vives
+0.0983,0.648,223800,Young And Menace,Fall Out Boy
+0.00898,0.499,229093,"Sugar We're Goin Down",Fall Out Boy
+0.004,0.385,228360,Centuries,Fall Out Boy
+0.0313,0.561,186827,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy
+0.00139,0.613,189387,Immortals,Fall Out Boy
+0.119,0.623,211573,Uma Thurman,Fall Out Boy
+0.00494,0.616,180267,"Dance Dance",Fall Out Boy
+0.000965,0.607,212040,"This Ain't A Scene It's An Arms Race",Fall Out Boy
+0.177,0.95,214648,Bad Liar,Selena Gomez
+0.222,0.63,228827,Despacito - Remix,Luis Fonsi
+0.00593,0.608,187761,Thunder,Imagine Dragons
+0.0969,0.774,211475,Attention,Charlie Puth
+0.381,0.857,199440,There's Nothing Holdin' Me Back,Shawn Mendes
+0.102,0.44,258188,Quit (feat. Ariana Grande),Cashmere Cat
+0.0745,0.696,211364,The Cure,Lady Gaga
+0.197,0.633,193511,First Time,Kygo
+0.062,0.711,223190,No Vacancy,OneRepublic
+0.0485,0.76,204400,Most Girls,Hailee Steinfeld
+0.0577,0.565,231906,Malibu,Miley Cyrus
+0.238,0.457,210091,Stay (with Alessia Cara),Zedd
+0.56,0.622,250200,1-800-273-8255,Logic
+0.15,0.703,193613,Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann
+0.115,0.66,214802,Now Or Never,Halsey
+0.0575,0.741,223504,No Promises (feat. Demi Lovato),Cheat Codes
+0.0133,0.726,188174,Slow Hands,Niall Horan
+0.0283,0.656,197253,Bad Bitch (feat. Ty Dolla $ign),Bebe Rexha
+0.00464,0.565,225526,Good Life (with G-Eazy & Kehlani),G-Eazy
+0.97,0.549,206933,The Night We Met,Lord Huron
+0.45,0.754,272667,Rollin,Calvin Harris
+0.00728,0.741,221983,Obsession (feat. Jon Bellion),Vice
+0.549,0.87,160597,Whippin (feat. Felix Snow),Kiiara
+0.281,0.718,214867,Symphony,Clean Bandit
+0.00411,0.624,207520,Break Up Every Night,The Chainsmokers
+0.0293,0.726,233833,Unforgettable,French Montana
+0.000339,0.905,177604,HUMBLE.,Kendrick Lamar
+0.00517,0.747,212027,do re mi,Blackbear
+0.075,0.696,216409,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo
+0.0355,0.673,201601,Whatever It Takes,Imagine Dragons
+0.032,0.607,213307,Touch,Little Mix
+0.0303,0.415,251423,Selfish,Future
+0.0905,0.648,220781,It Ain’t Me (with Selena Gomez),Kygo
+0.128,0.747,184134,Mama,Jonas Blue
+0.238,0.76,177573,The One,The Chainsmokers
+0.401,0.763,197495,Nights With You,MØ
+0.0235,0.667,172893,TG4M,Zara Larsson
+0.0102,0.833,204600,Mask Off,Future
+0.122,0.803,227292,Bon Appétit,Katy Perry
+0.0275,0.516,340707,Sign of the Times,Harry Styles
+0.00246,0.532,200733,At My Best (feat. Hailee Steinfeld),Machine Gun Kelly
+0.416,0.704,176347,Issues,Julia Michaels
+0.013,0.853,206693,That's What I Like,Bruno Mars
+0.0561,0.623,220291,September Song,JP Cooper
+0.131,0.748,188491,Still Got Time,ZAYN
+0.33,0.736,219080,Location,Khalid
+0.0895,0.584,220883,Scared to Be Lonely,Martin Garrix
+0.304,0.804,298941,Passionfruit,Drake
+0.581,0.825,233713,Shape of You,Ed Sheeran
+0.0991,0.608,232947,Wild Ones (feat. Sia),Flo Rida
+0.167,0.748,210627,Starships,Nicki Minaj
+0.0656,0.828,299333,Lollipop,Lil Wayne
+0.0921,0.72,229360,Time of Our Lives,Pitbull
+0.0319,0.646,210960,Stereo Hearts (feat. Adam Levine),Gym Class Heroes
+0.0643,0.755,198187,Glad You Came,The Wanted
+0.00622,0.75,203867,Dynamite,Taio Cruz
+0.0567,0.467,293533,Clique,JAY Z
+0.11,0.66,180480,Airplanes (feat. Hayley Williams of Paramore),B.o.B
+0.555,0.635,217419,Trumpets,Jason Derulo
+0.071,0.375,338853,Live Your Life - feat. Rihanna,T.I.
+0.00738,0.352,216893,Like A G6,Far East Movement
+0.039,0.673,229507,Feel This Moment,Pitbull
+0.0295,0.581,204160,Timber,Pitbull
+0.0384,0.72,175427,Classic,MKTO
+0.069,0.599,245041,Titanium (feat. Sia),David Guetta
+0.0181,0.62,229573,E.T. - feat. Kanye West,Katy Perry
+0.000704,0.657,190186,GDFR (feat. Sage The Gemini & Lookas),Flo Rida
+0.0525,0.715,207333,"Young Wild & Free (feat. Bruno Mars)",Snoop Dogg
+0.0514,0.786,250189,The Monster,Eminem
+0.0746,0.755,199693,TiK ToK,Kesha
+0.0715,0.859,188453,Love You Like A Love Song,Selena Gomez & The Scene
+0.112,0.612,212862,Don't You Worry Child (Radio Edit) [feat. John Martin],Swedish House Mafia
+0.0762,0.809,195853,Sexy Bitch (feat. Akon) - Featuring Akon;explicit,David Guetta
+0.000979,0.842,189907,Somebody,Natalie La Rose
+0.0183,0.745,189959,Maps,Maroon 5
+0.162,0.725,247520,Am I Wrong,Nico & Vinz
+0.0117,0.579,275987,Umbrella,Rihanna
+0.0649,0.663,257840,Counting Stars,OneRepublic
+0.00107,0.818,213733,Turn Down for What,DJ Snake
+0.0378,0.81,369627,Get Lucky,Daft Punk
+0.0533,0.441,225160,A Dustland Fairytale,The Killers
+0.0215,0.688,192191,My House,Flo Rida
+0.219,0.427,257760,Best I Ever Had,Drake
+0.0196,0.592,206880,Stitches,Shawn Mendes
+0.403,0.753,203467,I Will Never Let You Down,Rita Ora
+0.186,0.548,272394,Do I Wanna Know?,Arctic Monkeys
+0.00901,0.635,307987,Cinema - Skrillex Remix,Benny Benassi
+0.0431,0.697,277387,Take Care,Drake
+0.0208,0.583,258827,Love Song,Sara Bareilles
+0.00373,0.862,263827,Blurred Lines,Robin Thicke
+0.119,0.68,313787,Swimming Pools (Drank) - Extended Version,Kendrick Lamar
+0.161,0.772,225560,Beautiful Girls - Radio Disney Version,Sean Kingston
+0.0532,0.709,189333,Cool,Gwen Stefani
+0.455,0.627,262853,Can’t Live Without,Hollyn
+0.0394,0.567,217480,Glimpse,Kim Walker-Smith
+0.0495,0.547,187013,Broken Things,Matthew West
+0.379,0.335,255160,Even If,MercyMe
+0.0363,0.468,219720,Home,Chris Tomlin
+0.648,0.322,228067,Nowhere,Sarah Reeves
+0.766,0.486,250123,Hills and Valleys (The Valleys Version),Tauren Wells
+0.0189,0.475,195907,Chain Breaker,Zach Williams
+0.912,0.361,277973,Clean,Natalie Grant
+0.447,0.519,245853,I Will,Citizen Way
+0.0353,0.576,254262,The Gospel,Ryan Stevenson
+0.0342,0.511,284947,Throne Room,Kim Walker-Smith
+0.0164,0.526,237467,I Won't Let You Go - Radio Version,Switchfoot
+0.0176,0.621,215050,Unfinished,Mandisa
+0.117,0.673,176453,Old Church Choir,Zach Williams
+0.28,0.555,236667,Forgiven,Crowder
+0.379,0.534,225933,Love Wins,Love and Theft
+0.199,0.422,204800,I Have This Hope,Tenth Avenue North
+0.568,0.448,218133,In Awe,Hollyn
+0.498,0.331,255173,Oh My Soul,Casting Crowns
+0.0229,0.385,222400,You Redeem - Studio Version,Aaron Shust
+0.0141,0.447,212701,Amen,Hunter Hayes
+0.0107,0.619,220840,Brand New Life,Colton Dixon
+0.202,0.497,249640,Oceans (Where Feet May Fail) - Radio Version,Hillsong United
+0.587,0.464,205387,O God Forgive Us,for KING & COUNTRY
+0.0298,0.306,293331,Death Was Arrested,North Point InsideOut
+0.149,0.536,243013,Back To God,Reba McEntire
+0.000767,0.429,264320,Say The Word,Hillsong United
+0.627,0.295,252360,On My Side,Kim Walker-Smith
+0.0218,0.534,168040,Bloom,Grayson Reed
+0.104,0.475,219280,Revival,Third Day
+0.415,0.436,248962,Hold It All,Cody Carnes
+0.0458,0.704,201093,Lifer,MercyMe
+0.0166,0.543,202039,Now,Mallary Hope
+0.0108,0.534,235733,Battles,The Afters
+0.85,0.227,247020,Prove Me Wrong,Mandisa
+0.193,0.732,207052,Run the Race,Holly Starr
+0.322,0.659,167711,The Happy Song,Jamie Grace
+0.298,0.588,228453,Find You Here,Ellie Holcomb
+0.0875,0.353,199111,Change The World (feat. Hollyn),Derek Minor
+0.225,0.696,230933,Rise,Kim Walker-Smith
+0.00532,0.529,208520,Priceless,for KING & COUNTRY
+0.000774,0.525,239999,Alive In You - Studio Version,Jesus Culture
+0.187,0.423,238200,What A Beautiful Name,Hillsong Worship
+0.00497,0.574,240453,Beloved,Jordan Feliz
+0.000619,0.388,347893,There Is a Cloud,Elevation Worship
+0.0643,0.519,217800,Rise,Danny Gokey
+0.00687,0.688,183413,Fearless,Jasmine Murray
+0.807,0.569,235680,Tears,Matt Hammitt
+0.0024,0.547,228040,To Live Is Christ,Sidewalk Prophets
+0.0198,0.511,237453,Be The Change,Britt Nicole
+0.000937,0.676,200481,Parachute,Joshua Micah
+0.0646,0.587,203937,Where You Are (Reimagined),Hillsong Young & Free
+0.183,0.389,297320,The Cause Of Christ,Kari Jobe
+0.105,0.528,216400,King Of The World,Natalie Grant
+0.0326,0.37,235227,Come Alive (Dry Bones),Lauren Daigle
+0.0919,0.301,254373,Even So Come - Radio Version/Live,Passion
+0.0839,0.459,256933,"10000 Reasons (Bless the Lord) [Radio Version]",Matt Redman
+0.0793,0.545,234199,More Than Conquerors (Radio Version),Steven Curtis Chapman
+0.471,0.495,243800,TESTIFY,NEEDTOBREATHE
+0.0832,0.492,232379,Great Are You Lord (Radio Mix),one sonic society
+0.0551,0.401,307680,Worthy Of Your Name - Studio,Passion
+0.00392,0.436,288253,My All In All,Phil Wickham
+0.0101,0.674,237146,Love Broke Thru,tobyMac
+0.133,0.566,208627,Magnify,We Are Messengers
+0.157,0.211,252965,The Cross Has The Final Word,Cody Carnes
+0.196,0.305,331613,Eye of the Storm (feat. Gabe Real),Ryan Stevenson
+0.000127,0.237,247533,Black Colors,Victim Of Deception
+1.51E-05,0.455,311217,A Darkened Gospel,A Wake in Providence
+7.94E-06,0.236,239696,Soil the Stillborn,Infant Annihilator
+0.00256,0.468,201783,No Absolution,Thy Art Is Murder
+0.000102,0.476,314907,Hearteater,To The Grave
+8.35E-06,0.226,209563,Shapeless Abomination,Beyond the Extraction
+0.00105,0.495,263687,Dirty Waters,Into Oblivion
+5.83E-05,0.296,229859,Defiled,Hive
+1.84E-05,0.474,260706,Negative,FRCTRD
+0.000168,0.406,180872,Distorting of Perception,Until We Die
+8.12E-05,0.173,267600,Ruin,Altered Perceptions
+1.01E-05,0.404,224812,Fauxhammer,Black Tongue
+0.000393,0.456,217133,Spiteful Nature,I Shall Devour
+0.0147,0.242,233796,We Wait,I Declare War
+4.42E-05,0.472,229640,Plague of Immortality (feat. Dean Lamb Of Archspire),Within Destruction
+2.95E-05,0.227,244181,Arrogance,Traitors
+5.73E-05,0.444,268187,Inferiority,Neberu
+8.53E-05,0.17,319582,Senseless Order,Signs of the Swarm
+4.19E-05,0.276,294034,Advent,Shotgun Surgeon
+6.49E-05,0.401,264107,Venomous,Whitechapel
+7.53E-05,0.398,200525,Substance Affliction,Advocates
+0.000696,0.566,250647,To Encompass and Eclipse,A Trust Unclean
+0.000103,0.39,192011,Rope,Obscure of Acacia
+2.67E-05,0.336,282401,Permanent Intoxication,Mycelia
+0.00545,0.48,228923,Tremendous Strain,Science Of Sleep
+0.000273,0.285,232999,Of Talons and Teeth,Reaping Asmodeia
+4.95E-05,0.428,221776,Pitchblack,Walking Dead On Broadway
+0.000283,0.256,197684,Zerotonin 2,Darknet
+0.000102,0.491,309734,False Hope,The Machinist
+0.000673,0.274,198011,1208,Extortionist
+0.00125,0.217,255725,Plagues,The End At The Beginning
+4.58E-05,0.261,149278,Hear Me Out,Risking It All
+1.35E-05,0.517,256920,Down into the Abyss,Conjonctive
+0.000482,0.258,282101,Dance of the Witch,At Rest
+1.20E-05,0.484,328000,New World Slaughter,Iconoclast
+6.56E-05,0.387,300000,FVNERAL MOON,Lorna Shore
+0.00029,0.424,271560,Beautiful Agony,Within The Ruins
+0.000111,0.45,267000,Ways Of Transfiguration,Buried Side
+2.13E-05,0.222,278577,Black Mammoth,Fit For An Autopsy
+5.40E-05,0.455,210426,Solicitude,Belie My Burial
+0.000123,0.398,252005,The Call of Mighty,Crucify Me Gently
+8.80E-06,0.399,267209,Manufactured Existence,Lord of War
+3.28E-05,0.401,194000,Bastard Son,God Of Nothing
+1.94E-05,0.209,246689,The Shaping Sickness,Shadow of Intent
+1.56E-05,0.493,258868,Drown Me in Blood,Carnifex
+0.00115,0.339,219317,Inferno,"Above Below"
+5.32E-05,0.458,184482,Debris,Paragon
+1.45E-05,0.263,275719,"I the Weak",The Voynich Code
+0.00192,0.482,198947,American Dream,Chelsea Grin
+2.21E-05,0.379,256114,Temptress,Enterprise Earth
+2.05E-05,0.535,203500,Flag of the Beast,Emmure
+1.69E-05,0.329,135653,Unanswered,Suicide Silence
+4.55E-05,0.162,200961,Be My Valentine (feat. Dickie Allen),Brojob
+5.41E-06,0.389,220558,Prismatic Abyss,Aversions Crown
+0.00631,0.636,180400,Right In,Skrillex
+0.0145,0.716,215253,Bangarang (feat. Sirah),Skrillex
+0.0049,0.596,301987,Breakn' A Sweat,Skrillex
+0.00075,0.616,292907,The Devil's Den,Skrillex
+0.0106,0.633,245053,Right On Time,Skrillex
+0.0012,0.605,200787,Kyoto (feat. Sirah),Skrillex
+0.654,0.176,414747,Skrillex Orchestral Suite By Varien - Bonus Track,Skrillex
+0.218,0.385,232716,Satellite,SALTNPAPER
+0.328,0.68,231679,Nosedive,Dynamic Duo
+0.0171,0.726,212409,PIZZA,Oohyo
+0.773,0.741,193217,이대로 있어줘요 Stay With Me,도시총각 Dosichonggak
+0.498,0.587,246457,Stardust,Kevin Oh
+2.54E-05,0.321,128340,Burning youth,Hyukoh
+0.263,0.697,193605,Wi Ing Wi Ing,Hyukoh
+0.712,0.483,229261,Wonder,Standing Egg
+0.285,0.498,221293,I'll Pick You Up,Standing Egg
+0.0262,0.635,183781,VAMOS,Oohyo
+0.364,0.819,186817,MWAH,Humming Urban Stereo
+0.564,0.676,238895,Loop,NELL
+0.873,0.657,201667,With Me,Vanilla Acoustic
+0.0989,0.483,263979,Monster,PALGOU
+0.264,0.62,225800,What 2 Do,DEAN
+0.669,0.751,230493,For Me,Gyepy
+0.765,0.767,203263,Fallen in Love (Only With You),Jang Beom June
+0.164,0.844,226600,Talk,10cm
+0.253,0.743,237588,Black Out,PALGOU
+0.107,0.54,204589,Sleeping Habits,Donguy
+0.224,0.657,230000,Romance in Seoul,Neon Bunny
+0.532,0.549,200231,Hot and Cold (feat. Yun Cheoljong of 10cm),SunWoo Jung-A
+0.859,0.762,175792,Ki-dult,SBGB
+0.837,0.214,249727,"지금 여기 이곳에서 (Duet With 루시아)  지금 여기 이곳에서",Sentimental Scenery
+0.0219,0.63,222546,너와의 공식 Love Equation,플랫핏 Flat Feet
+0.806,0.35,254925,I Don't Love You,Urban Zakapa
+0.439,0.892,157001,My eyes,10cm
+0.881,0.764,99610,Zig Zag,Kwon Jin Ah
+0.0117,0.432,278999,Cake Love (PROD. BY The Black Skirts),XIA
+0.423,0.7,215005,HOW WAS YOUR DAY,Sugarbowl
+0.00922,0.453,388463,변명 Shame,DyoN Joo
+0.414,0.574,299008,You Wouldn't Even Know,Flower Soo
+0.705,0.894,222307,장가갈 수 있을까 Can I Get Married?,Coffeeboy
+0.368,0.717,232944,Sneakers,Humming Urban Stereo
+0.289,0.712,223333,Dangerous,Clazziquai Project
+0.138,0.768,224009,Night Time Melody,Rude Paper
+0.909,0.489,202827,Reason Why We Have To Break Up,Only U
+0.508,0.597,210893,"Love Love.",Big Brain
+0.772,0.598,224779,I Don't Want,Jungkey
+0.286,0.616,236960,All in Vain,Mot
+0.0805,0.766,319360,귀가 Return Home,카우칩스 The CowChips
+0.804,0.792,293458,물 Water,권나무 Kwon Tree
+0.805,0.709,206013,Summer Night You and I,Standing Egg
+0.858,0.679,257187,Let You Go,Mot
+0.175,0.581,247497,Sooni (I'm your fanatic girl),SunWoo Jung-A
+0.578,0.652,177090,Run,Okdal
+0.654,0.73,205333,Petals on The Wind (Remake Version),Wable
+0.663,0.719,227827,Morning Call - Remix Version,Ibadi
+0.827,0.524,193406,Rub off,Kim Woo-Joo
+0.503,0.41,256333,Don't You Cry For Me,Cobi
+0.947,0.483,248176,Waves - Acoustic,Dean Lewis
+0.461,0.59,162084,Runner,Jon and Roy
+0.302,0.696,292987,No Role Modelz,J. Cole
+0.0752,0.504,239320,Wet Dreamz,J. Cole
+0.358,0.894,216520,Neighbors,J. Cole
+0.361,0.653,264747,Deja Vu,J. Cole
+0.331,0.889,301133,G.O.M.D.,J. Cole
+0.0451,0.592,280615,Litty (feat. Tory Lanez),Meek Mill
+0.0242,0.589,223973,All Eyes On You (feat. Chris Brown & Nicki Minaj),Meek Mill
+0.00375,0.7,210472,Froze (feat. Lil Uzi Vert & Nicki Minaj),Meek Mill
+0.0415,0.37,250240,Ima Boss - feat. Rick Ross,Meek Mill
+0.214,0.523,291280,Apple of My Eye,Rick Ross
+0.00895,0.434,332600,Santorini Greece,Rick Ross
+0.0123,0.481,341680,Idols Become Rivals,Rick Ross
+0.00612,0.729,275720,Trap Trap Trap,Rick Ross
+0.00589,0.662,267720,Dead Presidents,Rick Ross
+0.00184,0.541,225427,She On My Dick,Rick Ross
+0.0084,0.629,242373,I Think She Like Me,Rick Ross
+0.0273,0.501,269720,Powers That Be,Rick Ross
+0.00755,0.54,224707,Game Ain't Based On Sympathy,Rick Ross
+0.0171,0.801,160000,Humble,Wahlstedt
+0.033,0.707,201707,My Friend,EDX
+0.306,0.696,192000,White Label (Is This Love),Still Young
+0.00551,0.562,228414,Home,Marshmello
+0.0171,0.47,251350,Front to Back,Buku
+0.0227,0.726,335609,Best Thing About,Lex Luca
+0.00121,0.984,188852,Flashwind - Radio Edit,Ben Remember
+0.135,0.72,188852,Fuego,Alok
+0.00613,0.473,169756,Rose Horizon,Yellow Claw
+0.00101,0.466,16588,dance alot,Various Artists
+0.588,0.614,179613,Save You,Wahlstedt
+0.00433,0.775,248007,I Want You,Chris Lake
+0.0362,0.67,585000,Polaris,deadmau5
+0.643,0.549,185726,Midnight Sun,Dirtcaps
+0.00145,0.715,183752,One Life Short,Geoxor
+0.0771,0.466,224212,On Our Own (feat. Natalie Major),Showtek
+0.000679,0.503,249655,The Wall,Matrix & Futurebound
+0.00518,0.718,148801,All I Know,EDX
+0.0987,0.443,210884,Freesol (feat. Skyler Stonestreet),Seven Lions
+0.00576,0.396,265543,Mantra - Mat Zo Remix,Noisia
+0.044,0.597,192041,Good Life,Kiso
+0.291,0.675,166286,Twinbow,Slushii
+0.0256,0.559,210968,Limitless (feat. Sophie Rose),Sam F
+0.0235,0.714,176250,Move On Me,Tom & Jame
+0.325,0.531,195252,Wildcard,Mickey Valen
+0.149,0.738,190476,Find You,Wahlstedt
+0.0214,0.587,198426,Legacy,Dimitri Vangelis & Wyman
+0.316,0.519,182720,Show You Love,Kato
+0.139,0.718,188160,Make U Love Me,Tujamo
+0.474,0.871,184762,Bassline Riddim,Vato Gonzalez
+0.108,0.641,302506,Light - GOSLO Remix,San Holo
+0.265,0.677,185613,Walk Away,LVNDSCAPE
+0.158,0.633,155963,Touch The Sky,Cedric Gervais
+0.0144,0.529,179200,"Afraid Unafraid",SLUMBERJACK
+0.282,0.738,202286,Make You Mine,Aire Atlantica
+0.0238,0.303,199405,Riot Call (feat. Nevve),QUIX
+0.128,0.617,185089,Modern Flame (feat. Yuna),Emmit Fenn
+0.056,0.164,206897,Right Here,Keys N Krates
+0.00129,0.823,207293,Chicken Soup,Skrillex
+0.0165,0.597,209664,No Sleep,Bougenvilla
+0.0705,0.71,166290,Help,Borgore
+0.00931,0.715,198750,Waist Time,Diplo
+0.0126,0.604,200625,Scared To Be Lonely (Brooks Remix),Martin Garrix
+0.00173,0.548,226172,Fuck It All Up (feat. JVZEL),DOLF
+0.0509,0.546,174031,After All,Khrebto
+0.125,0.72,230853,Something Just Like This - Don Diablo Remix,The Chainsmokers
+0.000817,0.68,192200,The Jam,Kideko
+0.0143,0.626,219174,Get What You Give,Felix Cartal
+0.0107,0.723,211890,Joyride,Bassjackers
+0.131,0.522,210816,Open,Yellow Claw
+0.0533,0.599,288877,I'm the One,DJ Khaled
+0.0521,0.719,194320,There's Nothing Holdin' Me Back - NOTD Remix,Shawn Mendes
+0.00461,0.615,201387,Bon Appétit - MUNA Remix,Katy Perry
+0.00647,0.695,182693,Hard Times,Paramore
+0.00064,0.375,176387,Kiwi,Harry Styles
+0.166,0.766,181000,Issues - Alan Walker Remix,Julia Michaels
+0.0105,0.615,224773,Young,The Chainsmokers
+0.0121,0.692,195889,That's What I Like - Alan Walker Remix,Bruno Mars
+0.0771,0.709,225253,No More Sad Songs (feat. Machine Gun Kelly),Little Mix
+0.000569,0.624,189613,Carolina,Harry Styles
+0.101,0.867,191240,High Without Your Love,Loote
+0.217,0.62,248156,Feel Good,Gryffin
+0.57,0.629,250173,1-800-273-8255,Logic
+0.00377,0.61,176111,Middle Of The Night,The Vamps
+0.0156,0.841,241875,Tuesday (feat. Danelle Sandoval),Burak Yeter
+0.186,0.509,183229,Hunter,Galantis
+0.00466,0.722,182728,XO TOUR Llif3,Lil Uzi Vert
+0.0506,0.776,202480,Kissing Strangers,DNCE
+0.127,0.698,200105,Ciao Adios,Anne-Marie
+0.267,0.732,172751,Overwhelming,Jon Bellion
+0.242,0.592,210947,Go For Broke (feat. James Arthur),Machine Gun Kelly
+0.393,0.602,200187,Human,Rag'n'Bone Man
+0.0219,0.568,202439,Eyes Closed,Halsey
+0.0913,0.769,203992,History,Olivia Holt
+0.0261,0.555,174467,Calm Down,Skip Marley
+0.0909,0.583,199756,Be There,Krewella
+0.0182,0.836,242174,Swish Swish,Katy Perry
+0.0018,0.598,205746,Confident,Demi Lovato
+0.00477,0.585,214740,Cool for the Summer,Demi Lovato
+0.214,0.626,204188,Old Ways,Demi Lovato
+0.0418,0.505,221050,For You,Demi Lovato
+0.48,0.414,191308,Stone Cold,Demi Lovato
+0.0234,0.556,244014,Kingdom Come,Demi Lovato
+0.242,0.587,192918,Waitin for You,Demi Lovato
+0.559,0.628,199140,Wildfire,Demi Lovato
+0.92,0.442,408600,I'll Let You Know,David Hazeltine
+0.89,0.475,206360,I'll Wait And Pray,John Coltrane
+0.915,0.487,388347,The Shadow of Your Smile,Scott Hamilton
+0.922,0.535,297653,"Vid Frösö kyrka (At Frösö Church) - From Frösöblomster (Frösö Flowers) (arr. J. Ekberg P.V. Johansson and L. Simonsson)",Trio X of Sweden
+0.941,0.349,176297,Jackie Gets Out,Terence Blanchard
+0.935,0.428,285601,Romance / Hommage à Milhaud,Enrico Pieranunzi
+0.859,0.456,243013,Leave Me Here,Triosence
+0.871,0.421,265320,Where We Used To Live,Esbjörn Svensson Trio
+0.95,0.34,305427,Mommy's Shawl,Yelena Eckemoff
+0.973,0.478,388040,For Wee Folks,Joey Alexander
+0.854,0.46,278071,All I See is Us,Sassy Players
+0.957,0.356,342373,Goodbye Pork Pie Hat,Charles Mingus
+0.974,0.385,182653,Ballad for MC,Grace Kelly
+0.958,0.4,364627,Soul in Twilight,John Moulder
+0.967,0.296,340507,So Lovely,Ben Wolfe
+0.914,0.425,176272,The Sweetest Nighlife,Ellie & The Bunch
+0.988,0.479,440133,I Got It Bad,Enrico Pieranunzi
+0.886,0.466,255107,Gramercy Sunset,The Hot Sardines
+0.986,0.371,66762,I'm a Fool to Want You,Passport Quartet
+0.94,0.317,234373,"I Was So Young and You Were So Beautiful",Bill Charlap
+0.946,0.505,294940,Journey Into Melody - 2007 Digital Remaster,Stanley Turrentine
+0.929,0.55,484627,I'm Glad There Is You,Bill Mobley
+0.623,0.47,394920,Blue Ballad,Phil Woods
+0.992,0.447,1004627,The Nearness of You,Joshua Redman
+0.921,0.445,391707,It Never Entered my Mind,Mulgrew Miller
+0.81,0.421,337733,Blue in Green,Miles Davis
+0.99,0.326,168667,Where or When,Wynton Marsalis
+0.87,0.446,492080,Count Your Blessings,Seamus Blake
+0.823,0.526,322133,Good Morning Heartache,Scott Hamilton
+0.965,0.445,396520,Two Sleepy People,Marcus Gilmore
+0.924,0.533,221733,Can't Help Loving,Beegie Adair
+0.761,0.383,447280,The Nearness Of You,Bill Charlap
+0.846,0.569,282320,When Sunny Gets Blue,McCoy Tyner
+0.961,0.484,389893,Blue and Sentimental,Julian Dash
+0.986,0.388,232046,Almas vaggvisa,Jan Lundgren Trio
+0.857,0.364,317946,Before It's Time To Say Goodbye,Kenny Garrett
+0.967,0.539,294667,Autumn Nocturne,Lou Donaldson
+0.971,0.45,289693,Eleanor,Hank Jones
+0.886,0.386,348533,Angel Eyes,"Tommy Flanagan Ron Carter & Tony Williams"
+0.868,0.42,336373,Good Morning.Goodbye,Dan Cray Trio
+0.971,0.428,294587,Doubts 2,Ibrahim Maalouf
+0.96,0.32,325400,The Last Goodbye,Nicholas Payton
+0.96,0.411,246067,Where Do You Start,Brad Mehldau Trio
+0.748,0.52,341667,The Man I Love,Marcus Roberts
+0.905,0.42,257693,Gary's Theme - Remastered,Bill Evans
+0.912,0.399,325587,Trust,Roy Hargrove
+0.937,0.428,240093,The Folks Who Live on the Hill,Joshua Redman
+0.717,0.423,335333,All The Way,Bob Berg
+0.93,0.336,314493,Emperor Jones - Instrumental,Joe Lovano
+0.903,0.257,376573,Isadora,Christian Scott
+0.901,0.368,428973,I Remember Clifford,Lee Morgan
+0.195,0.323,244867,Sous le Ciel de Paris,Jacky Terrasson
+0.978,0.575,258040,You Go To My Head,Art Pepper
+0.91,0.421,763467,Gloomy Sunday,Branford Marsalis
+0.936,0.358,212493,I Didn't Know About You,Johnny Hodges
+0.918,0.331,507533,I Have Dreamed,Christian McBride
+0.971,0.633,149072,Fools Rush In,Teddy Wilson
+0.899,0.461,477173,Dreamsville,David Halliday
+0.827,0.458,482187,Old Folks,Xavier Davis
+0.972,0.448,308893,I Got It Bad And That Ain't Good,Oscar Peterson Trio
+0.97,0.509,252947,My Romance,Gene Ammons
+0.949,0.386,567920,The Peacocks,Anthony Wonsey Trio
+0.973,0.407,418000,A Nightingale Sang In Berkeley Square,Stan Getz
+0.967,0.384,206040,A Hundred Dreams from Now,Ray Bryant
+0.978,0.514,323200,My Little Brown Book,Duke Ellington
+0.577,0.848,261933,Moving On and Getting Over,John Mayer
+0.144,0.736,185588,Safe,Bay Ledges
+0.652,0.865,246610,Second Nature,Stalking Gia
+0.311,0.677,236786,The Best Crew,Tep No
+0.273,0.784,266455,Hideout,Parcels
+0.83,0.534,238265,No Le Digas Que Hacer,Karina Vismara
+0.826,0.876,51547,Peas Pudding Hot,The Kids Band
+0.791,0.718,144733,Biscuits in the Oven,Raffi
+0.0071,0.498,106680,Jelly Beans,The Hipwaders
+0.0336,0.89,129187,My Favorite Snack,Imagination Movers
+0.649,0.603,100693,Curse of the Spinach,Trout Fishing in America
+0.519,0.567,160133,Mosquito Burrito,Roger Day
+0.147,0.554,191947,C'mon Let's Make A Pizza,We Kids Rock
+0.461,0.873,127227,Jelly On A Plate,The Kids Band
+0.741,0.941,47547,Little Green Apple,Tumble Tots
+0.809,0.802,156373,Always Chew Your Food,Trout Fishing in America
+0.278,0.693,87705,"Icy Creamy Ice Cream",Barney
+0.995,0.471,82293,"Lyric Pieces Book I Op. 12: I. Arietta",Edvard Grieg
+0.915,0.277,295747,"String Quartet No. 4 in C Major D. 46: II. Andante con moto",Franz Schubert
+0.995,0.333,221173,"8 Fantasiestücke Op.12 : 1. Des Abends",Robert Schumann
+0.971,0.338,455307,"String Quartet No. 5 in C Major Op. 29 ""Serenade"": II. Ballata: Allegretto scherzando",Wilhelm Stenhammar
+0.953,0.156,458000,"Piano Quartet in E flat Op.47: 3. Andante cantabile",Robert Schumann
+0.993,0.294,621280,"Piano Sonata No. 18 in G Major Op. 78 D. 894: IV. Allegretto",Franz Schubert
+0.913,0.152,275653,"Trio Sonata in G Major Wq. 144: I. Adagio",Carl Philipp Emanuel Bach
+0.983,0.236,260000,"Trio No. 2 en Mi Mineur Op. 92: III. Andante con moto",Camille Saint-Saëns
+0.951,0.173,649415,"String Quintet in C Major Op. 29: II. Adagio molto espressivo",Ludwig van Beethoven
+0.991,0.295,784013,Viola Sonata in C Minor: III. Andante con variazioni,Felix Mendelssohn
+0.0841,0.757,175238,Magic City,Wahlstedt
+0.0319,0.514,184762,Livin' 4 Ya,MOTi
+0.0682,0.412,257846,Last Chance,Kaskade
+0.00623,0.654,236308,Nite Time - Ruby & Tony Radio Edit,George Acosta
+0.043,0.638,196132,Satellites,DubVision
+0.0316,0.591,185171,Can't Take It,Breathe Carolina
+0.059,0.624,187838,All Aloud,Adrian Lux
+0.282,0.369,187549,Close,IZECOLD
+0.0058,0.704,377153,Cascade - Original Mix,Tommy Trash
+0.141,0.48,179893,Waiting,Dash Berlin
+0.0086,0.707,220640,Everytime We Touch,David Guetta - Sébastian Ingrosso - Joachim Garraud - Chris Willis - Steve Angello
+0.00732,0.623,192000,Milky Way,Madison Mars
+0.00837,0.184,221286,You,Galantis
+0.024,0.691,381732,La Tromba Risin' (feat. Tasita D'Mour),Chris Lake
+0.00259,0.66,254879,Crash 2.0 (Adventure Club vs. DallasK),Adventure Club
+0.00338,0.569,190155,Raven,John Dahlbäck
+0.00689,0.798,194000,Icarus - Black Caviar Remix,R3hab
+0.475,0.539,209531,Wasted Love (feat. Dougy),Steve Angello
+0.00695,0.583,233239,Summer,Marshmello
+0.0362,0.56,162383,Catch Me (feat. Naaz),Flux Pavilion
+0.0144,0.507,213338,Save the World - Radio Mix,Swedish House Mafia
+0.00164,0.703,346930,"Wild One Two - feat. David Guetta Nicky Romero & Sia",Jack Back
+0.00136,0.526,322227,Fire In Your New Shoes (feat. Martina of Dragonette) - Sultan & Ned Shepard Electric Daisy Remix,Kaskade
+0.0124,0.412,205440,Calling (Lose My Mind) - Radio Edit,Sebastian Ingrosso
+0.0168,0.737,368476,Language,Porter Robinson
+8.45E-05,0.649,214042,Strobe - Radio Edit,deadmau5
+0.0896,0.49,200992,Seek Bromance (Avicii Vocal Edit) - Avicii Vocal Edit,Tim Berg
+0.00429,0.502,248447,Poison,Martin Garrix
+0.241,0.713,208620,Take Over Control - Radio Edit,Afrojack
+0.00338,0.575,300013,Teenage Crime - Axwell & Henrik B Remode,Adrian Lux
+0.0375,0.747,166138,Light It Up (feat. Nyla & Fuse ODG) [Remix],Major Lazer
+0.021,0.719,251429,Turn Me Up - ViP Mix,MOTi
+0.0732,0.509,221274,Together,Martin Garrix
+0.0663,0.393,147231,Whatcha Need,W&W
+0.0534,0.605,199904,Levels - Radio Edit,Avicii
+0.0291,0.589,212627,Faded,Alan Walker
+0.0344,0.561,235873,Move for Me,Kaskade
+0.09,0.692,183747,Turn up the Speakers - Radio Edit,Afrojack
+0.00233,0.672,295035,Counting Down The Days - Yotto Edit,Above & Beyond
+0.00626,0.691,203302,Summer Dreams,Michael Brun
+0.000552,0.841,485293,Changes - Dirty South Remix,Chris Lake Feat. Laura V
+0.031,0.51,210013,Heroes (we could be),Alesso
+0.0583,0.516,174500,Everything,R3hab
+0.00346,0.723,176561,Lean On (feat. MØ & DJ Snake),Major Lazer
+0.00354,0.568,196000,Starlight - Radio Mix,SOVI
+0.0028,0.476,226867,City Of Dreams - Radio Edit,Dirty South
+0.00388,0.605,325714,Chords Of Life - Original Mix,Tim Mason
+0.0856,0.605,235000,Blackout - Madison Mars Radio Mix,Tritonal
+0.00273,0.408,247655,Freak,Friction
+0.00158,0.598,383495,Skyscrapers,Daydreamer
+0.0344,0.529,222075,Chemicals - Radio Edit,Tiësto
+0.00481,0.475,224973,Run Wild - Alternative Edit Mix Cut,Hardwell
+0.0111,0.668,212323,Blackout,Pegboard Nerds
+0.0178,0.69,230792,Rock The House - Radio Edit,Afrojack
+0.0268,0.624,157452,Sweet Memories,CID
+0.0711,0.719,313580,Borrowed Lives (feat. NVDES),Pierce Fulton
+0.0107,0.631,235025,Concrete Angel (Radio Edit) (feat. Christina Novelli),Gareth Emery
+0.0024,0.54,201290,Yebisah,Mark Knight
+0.306,0.546,191250,Otherside,Suyano
+0.00281,0.608,219398,Falling Back - Radio Edit,Cosmic Gate
+0.0294,0.591,228347,Fireflies,Owl City
+0.0314,0.559,205933,Good Time,Owl City
+0.0243,0.631,218093,When Can I See You Again?,Owl City
+0.0002,0.55,213026,Verge,Owl City
+0.0082,0.581,231707,Vanilla Twilight,Owl City
+0.0359,0.761,219120,You Make Me Wanna...,Usher
+0.157,0.715,277320,Can't You See,Total
+0.27,0.67,254147,Lost Without U,Robin Thicke
+0.0757,0.572,297893,'Till I Collapse,Eminem
+0.114,0.858,290836,$ave Dat Money (feat. Fetty Wap & Rich Homie Quan),Lil Dicky
+0.000175,0.537,127427,Calm Down,G-Eazy
+0.0583,0.688,230493,Remember The Name (feat. Styles Of Beyond),Fort Minor
+0.00436,0.578,233182,Mind Tricks,Bassnectar
+0.00107,0.507,215291,Help,Papa Roach
+0.0765,0.54,231107,Follow You,Bring Me The Horizon
+0.00278,0.231,200920,Snow Cats,AFI
+4.82E-05,0.409,200677,Paranoia,A Day To Remember
+0.000285,0.458,211430,Hated,Beartooth
+4.24E-05,0.396,257120,Shock Me,Baroness
+1.85E-05,0.55,238653,The Devil's Bleeding Crown,Volbeat
+6.04E-05,0.505,219763,Go Down in History,Four Year Strong
+2.79E-05,0.351,165047,Serpents,Neck Deep
+0.00267,0.442,239451,Black Honey,Thrice
+0.000353,0.42,210240,Chop Suey!,System Of A Down
+0.0245,0.623,228467,Something To Believe In,Young the Giant
+0.00643,0.585,216760,She Hates Me,Puddle Of Mudd
+0.0154,0.559,213093,Don't Threaten Me With A Good Time,Panic! At The Disco
+0.00172,0.542,203347,Sex on Fire,Kings of Leon
+0.122,0.7,234308,Cold,Maroon 5
+0.119,0.64,220781,It Ain't Me (with Selena Gomez),Kygo
+0.687,0.393,239451,Bring Me the Night,Sam Tsui feat. Kina Grannis
+0.0109,0.599,212013,Crush,David Archuleta
+0.0576,0.591,218373,Song 2 You,Victorious Cast
+0.0109,0.616,179600,L.A. Boyz,Victorious Cast feat. Victoria Justice and Ariana Grande
+0.0197,0.593,194893,Faster than Boyz,Victorious Cast
+0.000501,0.581,197160,Bad Boys,Victorious Cast
+0.0123,0.428,221720,"Too Little Too Late",JoJo
+0.799,0.66,304293,Fast Car (feat. Kina Grannis),Kina Grannis
+0.474,0.672,184960,In Your Arms,Kina Grannis
+0.292,0.862,150707,Valentine,Kina Grannis
+0.436,0.696,157187,The One You Say Goodnight To,Kina Grannis
+0.167,0.631,253107,Gone,Kina Grannis
+0.00634,0.637,195167,Strong Enough,Kina Grannis
+0.226,0.546,231240,Without Me,Kina Grannis
+0.0784,0.593,208000,L.A. Story,Sammy Adams
+0.112,0.688,186800,Something About the Sunshine,Anna Margaret
+0.114,0.586,176360,Like Nobody's Around,Big Time Rush
+0.101,0.403,201720,Amazing,Big Time Rush
+0.0987,0.614,201040,Boyfriend,Big Time Rush
+0.0735,0.531,224333,Worldwide,Big Time Rush
+0.0273,0.599,197587,Big Time Rush,Big Time Rush
+0.178,0.644,200613,Popular Song,MIKA
+0.0671,0.543,183960,All About Tonight - featuring Cymphonique Miller,How To Rock Cast
+0.219,0.638,209933,Count On You,Big Time Rush
+0.0196,0.437,175587,I Know You Know,Big Time Rush
+0.000479,0.695,218187,Bring It All to Me,Blaque
+0.0117,0.85,258113,Too Close,Next
+0.0453,0.841,278467,I'm So Into You,SWV
+0.409,0.618,291880,Don't Let Go (Love),En Vogue
+0.0029,0.583,271093,Candy Rain,Soul For Real
+0.067,0.829,243159,Wifey,Next
+0.396,0.635,329907,On Bended Knee,Boyz II Men
+0.267,0.809,275080,Get It On Tonite,Montell Jordan
+0.074,0.642,348893,End Of The Road,Boyz II Men
+0.105,0.563,235853,I'll Make Love To You,Boyz II Men
+0.468,0.578,201280,Water Runs Dry,Boyz II Men
+0.499,0.571,301587,A Song For Mama,Boyz II Men
+0.0788,0.873,301200,Together Again,Janet Jackson
+0.135,0.729,272360,Someone To Call My Lover,Janet Jackson
+0.0264,0.815,283934,Escapade,Janet Jackson
+0.0198,0.571,199640,Bye Bye Bye,*NSYNC
+0.3,0.55,266293,This I Promise You - Radio Edit,*NSYNC
+0.0479,0.647,191280,It's Gonna Be Me,*NSYNC
+0.44,0.468,243493,God Must Have Spent a Little More Time on You - Remix,*NSYNC
+0.0743,0.754,199787,I Want You Back - Radio Edit,*NSYNC
+0.0412,0.841,175520,Pop - Radio Version,*NSYNC
+0.00799,0.685,209560,Tearin' up My Heart - Radio Edit,*NSYNC
+0.16,0.773,211907,As Long as You Love Me,Backstreet Boys
+0.066,0.798,232027,Quit Playing Games (With My Heart),Backstreet Boys
+0.0877,0.527,287027,I'll Never Break Your Heart,Backstreet Boys
+0.0563,0.729,274827,All I Have to Give,Backstreet Boys
+0.117,0.697,203600,The Call,Backstreet Boys
+0.24,0.683,213027,I Want It That Way,Backstreet Boys
+0.245,0.634,234587,Show Me the Meaning of Being Lonely,Backstreet Boys
+0.252,0.571,230280,Shape of My Heart,Backstreet Boys
+0.0522,0.862,301520,I'll Be Missing You (feat. 112),Diddy
+0.397,0.66,268800,I Need A Girl (Part One) (feat. Usher & Loon),Diddy
+0.31,0.596,232573,Where the Party At,Jagged Edge
+0.26,0.725,296693,I Wanna Know,Joe
+0.00819,0.651,232227,Stay,Ne-Yo
+0.273,0.699,207187,So Sick,Ne-Yo
+0.304,0.654,222000,When You're Mad,Ne-Yo
+0.265,0.622,220853,Sexy Love,Ne-Yo
+0.117,0.634,331240,All My Life,K-Ci & JoJo
+0.0786,0.779,254067,Take Me There - Remix,Blackstreet
+0.0058,0.686,267947,MMMBop,Hanson
+0.0565,0.78,236827,Case Of The Ex (Whatcha Gonna Do),Mýa
+0.207,0.833,209490,My Love Is Like...Wo - Main Mix/Album Version,Mýa
+0.00373,0.592,250173,Angel of Mine - Radio Mix,Monica
+0.243,0.652,294867,For You I Will,Monica
+0.0862,0.621,230733,Two Wrongs,Wyclef Jean
+0.0925,0.685,257173,Take Me As I Am,Wyclef Jean
+0.0772,0.733,241133,Sweetest Girl (Dollar Bill),Wyclef Jean
+0.0138,0.701,283093,Slow Jam,Usher
+0.218,0.408,230000,Ironic - 2015 Remastered,Alanis Morissette
+0.0227,0.816,247840,U Got It Bad,Usher
+0.257,0.662,223440,My Boo,Usher
+0.466,0.635,244160,Don't Love You No More (I'm Sorry),Craig David
+0.163,0.622,249093,Let Me Love You,Mario
+0.00541,0.538,214200,Just a Friend 2002 - Radio Edit,Mario
+0.273,0.713,271333,Say My Name,Destiny's Child
+0.00543,0.771,230200,"Jumpin' Jumpin'",Destiny's Child
+0.362,0.73,221133,"Independent Women Pt. I",Destiny's Child
+0.139,0.845,256027,"Bills Bills Bills",Destiny's Child
+0.102,0.721,263440,No More (Baby I'ma Do Right),3LW
+0.0382,0.518,300573,Summer Is Over feat. Sara Bareilles,Jon McLaughlin
+0.201,0.415,251640,Beautiful Disaster,Jon McLaughlin
+0.245,0.319,252053,Human,Jon McLaughlin
+0.787,0.386,226840,So Close,Jon McLaughlin
+0.0193,0.439,206000,In Love With a Girl,Gavin DeGraw
+0.789,0.764,224987,Simple Love Song,Anuhea
+0.214,0.685,339733,Honeymoon Avenue,Ariana Grande
+0.413,0.454,194707,Tattooed Heart,Ariana Grande
+0.831,0.4,327773,Almost Is Never Enough,Nathan Sykes
+0.789,0.664,145707,Perfect Harmony,Rags Cast
+0.268,0.562,235947,Pyramid (feat. Iyaz),Charice
+0.74,0.637,233000,Best Friend,Jason Chen
+0.962,0.47,246896,Over And Over Again,Nathan Sykes
+0.126,0.758,222733,Put Your Arms Around Me,Natasha Bedingfield
+0.0269,0.704,196853,Try Everything,Shakira
+0.39,0.712,181880,Starving,Hailee Steinfeld
+0.00406,0.616,206013,I Dare You,Bea Miller
+0.771,0.658,241813,Force of Nature,Bea Miller
+0.0305,0.555,187973,Perfect Picture,Bea Miller
+0.0278,0.51,164347,Tangled Up In Me,Skye Sweetnam
+0.0273,0.487,208360,Why Can't I?,Liz Phair
+0.0901,0.635,225400,God Is a DJ,P!nk
+0.0637,0.406,224848,Save My Soul,JoJo
+0.0368,0.277,244413,Mad Love.,JoJo
+0.19,0.776,239880,Secret Love,JoJo
+0.122,0.498,197847,Dear No One,Tori Kelly
+0.466,0.657,204960,First Heartbreak,Tori Kelly
+0.104,0.652,249960,Video,India.Arie
+0.152,0.494,227928,"Beauty and the Beast - From ""Beauty and the Beast""",Ariana Grande
+0.0458,0.732,241387,I2I,Tevin Campbell
+0.00411,0.557,242973,Confetti Falling,Big Time Rush
+0.211,0.627,245200,You Gotta Be,Des'ree
+0.429,0.616,169307,Can't Blame a Girl for Trying,Sabrina Carpenter
+0.00486,0.586,192720,Eyes Wide Open,Sabrina Carpenter
+0.00397,0.763,187960,"Wildside - From ""Adventures in Babysitting""",Sofia Carson
+0.256,0.539,243773,Can I Have This Dance,High School Musical Cast
+0.4,0.679,266867,Hold On,Wilson Phillips
+0.0156,0.627,164840,Be My Baby,Bea Miller
+0.828,0.717,260187,Photograph (feat. Bea Miller),Boyce Avenue
+0.41,0.694,244189,Closer (feat. Sarah Hyland),Boyce Avenue
+0.299,0.51,178320,"Flashlight (Sweet Life Mix) - From ""Pitch Perfect 2"" Soundtrack",Hailee Steinfeld
+0.382,0.428,291640,From This Moment On,Shania Twain
+0.45,0.551,212560,You're Still The One,Shania Twain
+0.0136,0.523,214827,Everywhere,Michelle Branch
+0.00509,0.571,234147,Just The Girl,The Click Five
+0.0535,0.5,217440,Pieces Of Me,Ashlee Simpson
+0.000668,0.493,202496,She Looks So Perfect,5 Seconds of Summer
+0.00216,0.659,216454,She's Kinda Hot,5 Seconds of Summer
+0.0236,0.92,293827,Billie Jean,Michael Jackson
+0.0491,0.779,258040,Beat It - Single Version,Michael Jackson
+0.11,0.758,198507,Black or White - Single Version,Michael Jackson
+0.0367,0.608,297400,The Way You Make Me Feel,Michael Jackson
+0.43,0.794,319307,Man In The Mirror,Michael Jackson
+0.23,0.888,238733,P.Y.T. (Pretty Young Thing),Michael Jackson
+0.00388,0.492,186867,Ultimate,Lindsay Lohan
+0.107,0.632,249147,If I Were a Boy,Beyoncé
+0.143,0.658,252053,With You,Chris Brown
+0.0371,0.672,278036,Forever,Chris Brown
+0.309,0.421,285120,A Thousand Years,Christina Perri
+0.0345,0.589,207145,Gave Me Something,Jess Glynne
+0.00159,0.642,227344,Hold My Hand,Jess Glynne
+0.106,0.677,152333,"When Will My Life Begin - From ""Tangled""/Soundtrack Version",Mandy Moore
+0.845,0.24,224240,"I See the Light - From ""Tangled""/Soundtrack Version",Mandy Moore
+0.0647,0.575,244667,Torn,Natalie Imbruglia
+0.197,0.794,281773,Ain't Nobody,Chaka Khan
+0.0029,0.555,271560,Dreams,The Cranberries
+0.307,0.556,251253,I Knew I Loved You,Savage Garden
+0.413,0.625,270333,Un-Break My Heart,Toni Braxton
+0.0704,0.689,269173,Breathe Again,Toni Braxton
+0.0117,0.852,267440,You're Makin' Me High,Toni Braxton
+0.371,0.814,268040,My Little Secret,Xscape
+0.0527,0.701,255453,One Of Those Love Songs,Xscape
+0.415,0.773,256720,Softest Place On Earth,Xscape
+0.311,0.657,260427,The Arms of the One Who Loves You,Xscape
+0.00947,0.739,261933,He Wasn't Man Enough,Toni Braxton
+0.259,0.534,249813,Secret Love Song,Little Mix
+0.784,0.485,180640,I Can't Fall in Love Without You,Zara Larsson
+0.965,0.71,275280,Lost Boy,Ruth B.
+0.524,0.849,203720,Yesterday,Atmosphere
+0.622,0.413,168480,Honest,Joseph
+0.904,0.513,193917,When Will I Learn,Kina Grannis
+0.701,0.447,171046,Lady Brain,The Harmaleighs
+0.265,0.546,201413,Cleopatra,The Lumineers
+0.286,0.614,264151,Heavy,Birdtalker
+0.0299,0.604,203310,Celeste,Ezra Vine
+0.859,0.606,201333,Don't Say,Lullanas
+0.323,0.661,186492,Like Home,Colin & Caroline
+0.395,0.644,195107,I Know,Sammy Brue
+0.208,0.645,150706,Adventurers,Holley Maher
+0.0897,0.499,195000,Back to You,WILD
+0.185,0.52,238093,Memorial Day,The Accidentals
+0.0754,0.655,202163,Fire,Majozi
+0.245,0.602,156360,I Keep Ticking On,The Harmaleighs
+0.266,0.626,233760,Automatic,Castro
+0.58,0.599,245960,Ohio - filous Remix,Damien Jurado
+0.0331,0.678,198760,I Took A Pill In Ibiza - Seeb Remix,Mike Posner
+0.0816,0.611,152869,Bath Salts,Travis Hayes
+0.994,0.206,336000,"Nocturne No.1 In B Flat Minor Op.9 No.1",Frédéric Chopin
+0.00832,0.64,268360,Semi-Charmed Life,Third Eye Blind
+0.211,0.581,272507,Mr. Jones,Counting Crows
+0.00162,0.543,256733,Two Princes,Spin Doctors
+9.24E-05,0.547,239227,Save Tonight,Eagle-Eye Cherry
+0.00117,0.464,236067,Hey Jealousy,Gin Blossoms
+0.000372,0.615,185093,Good,Better Than Ezra
+0.00131,0.417,263280,If You Could Only See,Tonic
+0.171,0.618,300773,You Get What You Give,New Radicals
+0.00913,0.638,238093,Why I'm Here,Oleander
+0.00468,0.499,134200,Lump,The Presidents Of The United States Of America
+0.0108,0.743,243333,Someday - Remastered,Sugar Ray
+0.0558,0.6,196116,All I Want,Toad The Wet Sprocket
+0.0067,0.42,238667,Push,Matchbox Twenty
+0.16,0.561,295493,What's Up?,4 Non Blondes
+0.000891,0.481,189333,Absolutely (Story of a Girl) - Radio Mix,Nine Days
+0.417,0.566,132307,Roll To Me,Del Amitri
+0.0437,0.637,208493,Hey Leonardo (She Likes Me For Me),Blessid Union Of Souls
+0.114,0.483,219467,Inside Out,Eve 6
+0.219,0.701,144333,Blister in the Sun - 2002 Remastered Version,Violent Femmes
+0.00971,0.498,215573,Cannonball,The Breeders
+0.00133,0.291,289907,Iris,The Goo Goo Dolls
+0.0271,0.48,164467,Into Your Arms,The Lemonheads
+0.25,0.58,235173,Mmm Mmm Mmm Mmm,Crash Test Dummies
+0.35,0.926,199853,Hollaback Girl,Gwen Stefani
+0.0584,0.967,242733,SexyBack,Justin Timberlake
+0.0823,0.741,289133,I Gotta Feeling,The Black Eyed Peas
+0.185,0.757,211160,...Baby One More Time,Britney Spears
+0.173,0.618,217893,Genie In A Bottle (Album Version),Christina Aguilera
+0.139,0.671,243493,Fantasy,Mariah Carey
+0.0251,0.743,214400,No Scrubs,TLC
+0.0661,0.639,232987,Drive,Incubus
+0.00129,0.494,169027,My Own Worst Enemy,Lit
+0.101,0.768,173027,Wannabe - Radio Edit,Spice Girls
+0.0028,0.686,211000,Tearin' up My Heart - Radio Edit,*NSYNC
+0.313,0.593,239440,I Try,Macy Gray
+0.25,0.295,225933,Ironic,Alanis Morissette
+1.92E-05,0.439,234800,Learn to Fly,Foo Fighters
+0.16,0.609,294987,Smooth,Santana
+0.161,0.667,213000,I Want It That Way,Backstreet Boys
+0.43,0.566,279400,Truly Madly Deeply,Savage Garden
+0.0534,0.748,198067,(You Drive Me) Crazy,Britney Spears
+0.0962,0.72,188107,Pretty Fly (For a White Guy),The Offspring
+0.0449,0.706,225253,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys
+0.153,0.831,239227,Remember the Time,Michael Jackson
+0.0863,0.675,239933,Meet Virginia,Train
+0.363,0.622,195467,Last Kiss,Pearl Jam
+0.000501,0.749,195107,Jump,Kris Kross
+0.0296,0.6,270427,"Girls Girls Girls",Mötley Crüe
+0.0475,0.559,209413,Don't Stop Me Now - Remastered 2011,Queen
+0.632,0.631,219160,Coming Around Again,Carly Simon
+0.284,0.778,218093,Hips Don't Lie,Shakira
+0.00542,0.875,272080,Don't Cha,The Pussycat Dolls
+0.00281,0.633,197124,Every time we touch,Cascada
+0.101,0.835,272533,Where Is The Love?,The Black Eyed Peas
+0.0446,0.853,267080,Don't Stop The Music,Rihanna
+0.0559,0.514,254027,Survivor,Destiny's Child
+0.00125,0.649,230747,Last Friday Night (T.G.I.F.),Katy Perry
+0.265,0.793,197027,"Whenever Wherever",Shakira
+0.12,0.851,237200,Poker Face,Lady Gaga
+0.0572,0.585,244507,Complicated,Avril Lavigne
+0.132,0.658,243493,Das Lied Der Schluempfe,Vader Abraham
+0.121,0.81,226333,Because We Want To,Billie Piper
+0.0174,0.757,205080,Cheeky Song (Touch My Bum),The Cheeky Girls
+0.00599,0.618,187760,Agadoo - original,Black Lace
+0.0561,0.766,204960,Achy Breaky Heart,Billy Ray Cyrus
+0.00733,0.845,187840,Jenny from the Block - Track Masters Remix,Jennifer Lopez
+0.0581,0.64,272160,Look At Me,Geri Halliwell
+0.0803,0.524,393827,(Everything I Do) I Do It For You,Bryan Adams
+0.573,0.498,200400,Against All Odds (Take a Look at Me Now),Mariah Carey
+0.284,0.672,212288,Anyone Can Fall In Love,Anita Dobson
+0.674,0.528,182213,There's No One Quite Like Grandma - 2003 Remastered Version,St. Winifred's School Choir
+0.453,0.511,406280,Earth Song - Remastered Version,Michael Jackson
+0.342,0.53,259040,The Lady In Red,Chris de Burgh
+0.707,0.433,281253,"My Heart Will Go On (Love Theme from ""Titanic"")",Céline Dion
+0.267,0.563,315787,Can I Touch You...There?,Michael Bolton
+0.25,0.764,205507,Lucky,Britney Spears
+0.00754,0.653,238693,Believe,Cher
+0.422,0.927,249382,Macarena,Los Del Rio
+0.16,0.85,234827,Boys,Sabrina
+0.441,0.762,193160,Shaddap You Face,Joe Dolce
+0.0336,0.959,268840,Ice Ice Baby,Vanilla Ice
+0.154,0.664,222029,Touch Me (I Want Your Body),Samantha Fox
+0.719,0.836,204827,Grandad,Clive Dunn
+0.537,0.191,184800,Puppy Love,Donny Osmond
+0.00769,0.771,197933,Girl You Know It's True,Milli Vanilli
+0.0588,0.653,216613,Mysterious Girl,Peter Andre
+0.721,0.366,191009,Every Loser Wins,Nick Berry
+0.00513,0.685,267947,MMMBop,Hanson
+0.677,0.423,322933,I'd Do Anything For Love (But I Won't Do That),Meat Loaf
+0.483,0.687,152400,"To Roz Bikini (Itsy Bitsy Teenie Weenie)",Polina
+0.00141,0.895,179000,Hoochie Mama,2 LIVE CREW
+0.0459,0.616,252040,Rockstar,Nickelback
+0.288,0.668,312640,Miracles,Insane Clown Posse
+0.0364,0.549,202787,Fuck You Bitch,Wheeler Walker Jr.
+0.141,0.615,203067,Fog On the Tyne,Lindisfarne
+0.0423,0.854,222080,Cha Cha Slide,Mr. C
+0.00135,0.446,223840,How You Remind Me - LP Mix,Nickelback
+0.000204,0.614,211067,Burn It To The Ground,Nickelback
+8.67E-05,0.485,249067,If Today Was Your Last Day,Nickelback
+0.000102,0.446,190787,When We Stand Together,Nickelback
+0.0707,0.947,150152,Fuck Kd,StaRR Lyfe
+0.17,0.466,183484,Now I Do What I Want,Lil Zay Poppin
+0.342,0.591,178026,300 Violin Orchestra,Jorge Quintero
+0.00574,0.682,192000,Shape of You (Major Lazer Remix) [feat. Nyla & Kranium],Ed Sheeran
+0.181,0.585,249213,Party Monster,The Weeknd
+0.00194,0.616,208332,U got 2 believe,Paulo Mendonca
+0.626,0.682,224000,Sah,Al Massrieen
+0.119,0.904,217587,Oh Devil,Electric Guest
+0.00701,0.578,199080,Shut Up and Dance,WALK THE MOON
+0.00173,0.472,321280,Anna Sun,WALK THE MOON
+0.0283,0.421,175907,Work This Body,WALK THE MOON
+8.39E-05,0.467,209187,Tightrope,WALK THE MOON
+0.000797,0.48,222053,Different Colors,WALK THE MOON
+0.00059,0.594,218720,Avalanche,WALK THE MOON
+0.000366,0.544,245133,Jenny,WALK THE MOON
+0.00749,0.446,241253,Portugal,WALK THE MOON
+0.0019,0.551,195280,Quesadilla,WALK THE MOON
+0.51,0.63,240000,Aquaman,WALK THE MOON
+0.0202,0.333,174240,Paris - Pegboard Nerds Remix,The Chainsmokers
+0.00363,0.743,259889,Quit You - Wuki Remix,Lost Kings
+0.00087,0.465,265600,Don't Let Me Down - Zomboy Remix,The Chainsmokers
+0.0316,0.68,211853,Faded - Slushii Remix,Alan Walker
+0.00499,0.619,245656,Can't Get Enough - Pegboard Nerds Remix,Tommie Sunshine
+0.0935,0.52,231667,Light - Loosid Remix,San Holo
+0.00262,0.484,224320,Something Just Like This - ARMNHMR Remix,The Chainsmokers
+0.0301,0.583,224092,Without U,Steve Aoki
+0.000461,0.562,201031,Hold Up,Borgeous
+0.0969,0.595,198400,Phone Down - Dodge & Fuski Remix,Lost Kings
+0.0216,0.526,216072,Spoon Me - Slushii Remix,Elliphant
+0.178,0.501,202839,Scared To Be Lonely (Conro Remix),Martin Garrix
+0.00217,0.639,296276,Let It Go - Scott Melker & Mister Gray Remix,NERVO
+0.0541,0.646,160408,"Call On Me - EDWYNN X TIKAL Spirix Remix",Starley
+0.00499,0.595,224000,Aamon,Kuuro
+0.00231,0.624,206013,Hey Baby - Steve Aoki Remix,Dimitri Vegas & Like Mike
+0.000586,0.528,245053,Brightside - Borgeous Remix,Icona Pop
+0.00106,0.584,274404,Like A Bitch - Kill The Noise Remix,Kill The Noise
+0.0877,0.894,182182,Candy,Dillon Francis
+0.00857,0.637,207200,Habit - Dack Janiels & Wenzday Remix,Rain Man
+0.00164,0.557,185600,First Contact,Twin Moons
+0.00281,0.446,204520,I Wanna Get Better,Bleachers
